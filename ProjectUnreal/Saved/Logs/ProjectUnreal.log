@@ -596,3 +596,58 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.01.26-12.40.30:437][736]LogAssetRegistry: Asset discovery search completed in 27.5648 seconds
 [2019.01.26-12.40.30:441][736]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2019.01.26-12.40.30:441][736]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000144 seconds (updated 0 objects)
+[2019.01.26-12.51.42:037][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-12.51.49:841][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-12.51.51:432][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-12.51.51:596][707]LogActorFactory: Actor Factory created Cube
+[2019.01.26-12.51.52:432][750]LogActorFactory: Actor Factory created Cube
+[2019.01.26-12.52.13:046][971]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-12.52.33:124][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-12.52.37:307][416]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.01.26-12.52.37:714][416]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/FirstPersonExampleMap096C1B42436D1F86372C3CAAC06193C3.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.01.26-12.52.39:169][416]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/FirstPersonExampleMap_BuiltData93F5CF56495603CFA0D0B1BAA4AC10C6.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.01.26-12.52.55:971][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-12.53.31:326][220]LogSlate: Window 'New Level' being destroyed
+[2019.01.26-12.53.31:336][220]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.26-12.53.31:367][220]LightingResults: New page: Lighting Build
+[2019.01.26-12.53.31:367][220]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.01.26-12.53.31:370][220]MapCheck: New page: Map Check
+[2019.01.26-12.53.31:371][220]LightingResults: New page: Lighting Build
+[2019.01.26-12.53.31:450][220]LogAIModule: Creating AISystem for world Untitled_1
+[2019.01.26-12.53.31:470][220]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.26-12.53.31:504][220]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.26-12.53.31:505][220]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,32ms to complete.
+[2019.01.26-12.53.31:505][220]LogFileHelpers: Loading map 'Template_Default' took 0.171
+[2019.01.26-12.54.17:800][ 58]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (46.261 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.01.26-13.03.23:042][472]LogSlate: Window 'Save Level As' being destroyed
+[2019.01.26-13.03.23:237][472]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Level129EBDEF6452AD668B9134990D1805B49.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level1.umap'
+[2019.01.26-13.03.23:262][472]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Level1_BuiltData0C7C278C42C983467C45CD8983239189.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level1_BuiltData.uasset'
+[2019.01.26-13.03.23:274][472]LogFileHelpers: Saving map 'Level1' took 0.222
+[2019.01.26-13.03.23:277][472]Cmd: MAP LOAD FILE="../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.01.26-13.03.23:299][472]LightingResults: New page: Lighting Build
+[2019.01.26-13.03.23:300][472]LoadErrors: New page: Loading map: Level1.umap
+[2019.01.26-13.03.23:301][472]MapCheck: New page: Map Check
+[2019.01.26-13.03.23:301][472]LightingResults: New page: Lighting Build
+[2019.01.26-13.03.23:348][472]LogAIModule: Creating AISystem for world Level1
+[2019.01.26-13.03.23:356][472]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.01.26-13.03.23:395][472]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.01.26-13.03.23:396][472]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,127ms to complete.
+[2019.01.26-13.03.23:396][472]LogFileHelpers: Loading map 'Level1' took 0.121
+[2019.01.26-13.05.40:384][792]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2019.01.26-13.05.40:491][792]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-13.05.41:538][852]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.26-13.06.32:074][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-13.06.43:529][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-13.07.50:601][301]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.26-13.08.53:639][902]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-13.08.55:007][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.01.26-13.08.56:221][ 54]Cmd: DELETE
+[2019.01.26-13.08.56:221][ 54]Cmd: ACTOR DELETE
+[2019.01.26-13.08.56:245][ 54]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.01.26-13.08.56:289][ 54]LogEditorActor: Deleted 1 Actors (0.050 secs)
+[2019.01.26-13.09.00:036][146]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.26-13.09.00:576][176]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.26-13.09.00:727][176]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Level1353E1A4245B987692A002B99062B1412.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level1.umap'
+[2019.01.26-13.09.00:757][176]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Level1_BuiltData3D5D48F74BCF9DC8A4EB69AD96CE9541.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level1_BuiltData.uasset'
+[2019.01.26-13.09.01:820][229]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Level10834A03647B2F0E0EF7FEF9DA6037468.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level1.umap'
+[2019.01.26-13.09.01:847][229]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Level1_BuiltData44C74BDA499BA898047E579344D7BE0A.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level1_BuiltData.uasset'
