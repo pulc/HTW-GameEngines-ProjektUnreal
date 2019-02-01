@@ -1,0 +1,956 @@
+﻿Log file open, 02/01/19 11:53:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectUnreal
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.306058
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogStreaming: Display: Took  0.253s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.01-10.53.04:596][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.01-10.53.04:596][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.01-10.53.04:596][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Engine.ini]
+[2019.02.01-10.53.04:596][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.01-10.53.04:596][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Engine.ini]
+[2019.02.01-10.53.04:596][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Engine.ini]
+[2019.02.01-10.53.04:596][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Engine.ini]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.01-10.53.04:597][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Engine.ini]
+[2019.02.01-10.53.04:597][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Engine.ini]
+[2019.02.01-10.53.04:601][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.01-10.53.04:601][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.01-10.53.04:601][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.01-10.53.04:602][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.01-10.53.04:603][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.01-10.53.04:603][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.01-10.53.04:679][  0]LogHAL: Display: Platform has ~ 16 GB [17017679872 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.01-10.53.04:679][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.01-10.53.04:679][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.01-10.53.04:679][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.01-10.53.04:679][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.01-10.53.04:680][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.01-10.53.04:681][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.01-10.53.04:681][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Engine.ini]
+[2019.02.01-10.53.04:681][  0]LogInit: Computer: MSI
+[2019.02.01-10.53.04:681][  0]LogInit: User: pulc
+[2019.02.01-10.53.04:681][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.01-10.53.04:681][  0]LogInit: High frequency timer resolution =2.531254 MHz
+[2019.02.01-10.53.04:682][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.02.01-10.53.04:682][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.01-10.53.04:682][  0]LogMemory: Process Physical Memory: 102.86 MB used, 102.86 MB peak
+[2019.02.01-10.53.04:682][  0]LogMemory: Process Virtual Memory: 94.36 MB used, 94.36 MB peak
+[2019.02.01-10.53.04:682][  0]LogMemory: Physical Memory: 7664.00 MB used,  8565.33 MB free, 16229.32 MB total
+[2019.02.01-10.53.04:682][  0]LogMemory: Virtual Memory: 4641.82 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.02.01-10.53.04:709][  0]LogInit: Using OS detected language (en-US).
+[2019.02.01-10.53.04:709][  0]LogInit: Using OS detected locale (de-DE).
+[2019.02.01-10.53.04:710][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.01-10.53.05:103][  0]LogStreaming: Display: Took  0.394s to InitEngineTextLocalization.
+[2019.02.01-10.53.05:103][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.01-10.53.05:133][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.01-10.53.05:133][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.01-10.53.05:444][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.01-10.53.05:444][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.01-10.53.05:510][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2019.02.01-10.53.05:510][  0]LogD3D11RHI:       2010/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.01-10.53.05:523][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.02.01-10.53.05:523][  0]LogD3D11RHI:       128/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.02.01-10.53.05:526][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.01-10.53.05:526][  0]LogD3D11RHI:       0/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.01-10.53.05:526][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.01-10.53.05:573][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.01-10.53.05:573][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2019.02.01-10.53.05:573][  0]LogWindows: EnumDisplayDevices:
+[2019.02.01-10.53.05:573][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.02.01-10.53.05:573][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.02.01-10.53.05:574][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.02.01-10.53.05:574][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.02.01-10.53.05:574][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2019.02.01-10.53.05:574][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.02.01-10.53.05:574][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.02.01-10.53.05:574][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.02.01-10.53.05:616][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.01-10.53.05:635][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.01-10.53.06:037][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.01-10.53.06:052][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.01-10.53.06:066][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.01-10.53.06:080][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.01-10.53.06:096][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.01-10.53.06:110][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.01-10.53.06:125][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.01-10.53.06:139][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.01-10.53.06:147][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.01-10.53.06:226][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.01-10.53.06:226][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.01-10.53.06:226][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.01-10.53.06:226][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.01-10.53.06:226][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.01-10.53.06:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.01-10.53.06:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.01-10.53.06:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.01-10.53.06:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.01-10.53.06:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.01-10.53.06:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.01-10.53.06:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.01-10.53.06:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.01-10.53.06:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.01-10.53.06:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.01-10.53.06:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.01-10.53.06:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.01-10.53.06:227][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.01-10.53.06:229][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.01-10.53.06:303][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.01-10.53.06:303][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.01-10.53.06:341][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.01-10.53.06:341][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.01-10.53.06:359][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.01-10.53.06:378][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.01-10.53.06:393][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.01-10.53.06:408][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.01-10.53.06:459][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.01-10.53.06:459][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.01-10.53.06:459][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.01-10.53.06:539][  0]LogShaderCompilers: Guid format shader working directory is -69 characters bigger than the processId version (../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Intermediate/Shaders/WorkingDirectory/13204/).
+[2019.02.01-10.53.06:539][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/pulc/AppData/Local/Temp/UnrealShaderWorkingDir/342BB8CA47EA454E4BC57DAB3CBB0A2A/'.
+[2019.02.01-10.53.06:542][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.01-10.53.06:542][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.01-10.53.06:542][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.01-10.53.07:188][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.01-10.53.07:249][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/pulc/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.01-10.53.07:249][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/pulc/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.01-10.53.07:249][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.01-10.53.07:249][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.01-10.53.07:249][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.01-10.53.07:249][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.01-10.53.07:263][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.01-10.53.07:267][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.02.01-10.53.07:279][  0]LogDerivedDataCache: Using Local data cache path C:/Users/pulc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.01-10.53.07:279][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.01-10.53.07:279][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.01-10.53.07:310][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.01-10.53.07:312][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.01-10.53.07:313][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.01-10.53.07:458][  0]LogAssetRegistry: FAssetRegistry took 0.0512 seconds to start up
+[2019.02.01-10.53.07:923][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.01-10.53.08:130][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.01-10.53.08:137][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.01-10.53.08:137][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.01-10.53.08:137][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.01-10.53.08:137][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.01-10.53.08:159][  0]LogNetVersion: ProjectUnreal 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1356592797)
+[2019.02.01-10.53.08:955][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 2 prioritized culture(s) in 0.161566 seconds
+[2019.02.01-10.53.08:967][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.01-10.53.08:967][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.02.01-10.53.08:967][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.01-10.53.10:303][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.01-10.53.10:318][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.01-10.53.11:314][  0]SourceControl: Source control is disabled
+[2019.02.01-10.53.11:314][  0]SourceControl: Source control is disabled
+[2019.02.01-10.53.11:315][  0]SourceControl: Source control is disabled
+[2019.02.01-10.53.11:316][  0]SourceControl: Source control is disabled
+[2019.02.01-10.53.11:502][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.01-10.53.11:584][  0]LogOcInput: OculusInput pre-init called
+[2019.02.01-10.53.13:975][  0]LogEngine: Initializing Engine...
+[2019.02.01-10.53.13:976][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.01-10.53.13:978][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.01-10.53.13:978][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.01-10.53.13:978][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.01-10.53.13:978][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.01-10.53.14:238][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.01-10.53.14:259][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.01-10.53.14:277][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.01-10.53.14:365][  0]LogInit: FAudioDevice initialized.
+[2019.02.01-10.53.14:365][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.01-10.53.14:495][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/pulc/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.01-10.53.14:501][  0]LogInit: Texture streaming: Enabled
+[2019.02.01-10.53.14:528][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.01-10.53.14:545][  0]LogInit: Transaction tracking system initialized
+[2019.02.01-10.53.14:584][  0]BlueprintLog: New page: Editor Load
+[2019.02.01-10.53.14:692][  0]LocalizationService: Localization service is disabled
+[2019.02.01-10.53.15:328][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/' took 0.02s
+[2019.02.01-10.53.15:328][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.01-10.53.15:328][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.01-10.53.15:328][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.01-10.53.15:328][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.01-10.53.15:328][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.01-10.53.15:328][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.01-10.53.15:328][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.01-10.53.17:935][  0]SourceControl: Source control is disabled
+[2019.02.01-10.53.17:936][  0]LightingResults: New page: Lighting Build
+[2019.02.01-10.53.17:940][  0]MapCheck: New page: Map Check
+[2019.02.01-10.53.17:940][  0]LightingResults: New page: Lighting Build
+[2019.02.01-10.53.23:622][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.02.01-10.53.26:218][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.01-10.53.26:263][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.01-10.53.26:264][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,205ms to complete.
+[2019.02.01-10.53.26:264][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 8.328
+[2019.02.01-10.53.26:551][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.01-10.53.26:559][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.01-10.53.26:567][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.01-10.53.26:576][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.01-10.53.26:594][  0]LogCollectionManager: Loaded 0 collections in 0.003149 seconds
+[2019.02.01-10.53.26:612][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Collections/' took 0.01s
+[2019.02.01-10.53.26:612][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Developers/pulc/Collections/' took 0.00s
+[2019.02.01-10.53.26:612][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Collections/' took 0.00s
+[2019.02.01-10.53.26:612][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.01-10.53.26:620][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2709 classes and 653 folders.
+[2019.02.01-10.53.26:628][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.02.01-10.53.26:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:748][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:749][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:750][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:751][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:753][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:754][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:756][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:757][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:758][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:760][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:761][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:762][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:763][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:765][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:766][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:767][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:768][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:770][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:771][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:772][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:773][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:775][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:797][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:813][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.26:828][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.01-10.53.27:991][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.02.01-10.53.28:003][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2019.02.01-10.53.28:045][  0]LogSlate: Took 0.000421 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.01-10.53.28:050][  0]LogSlate: Took 0.000412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.01-10.53.28:104][  0]LogSlate: Took 0.044450 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.01-10.53.28:405][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.02.01-10.53.28:507][  0]LogSlate: Took 0.020113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.01-10.53.28:608][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.01-10.53.28:608][  0]LogLoad: (Engine Initialization) Total time: 27.68 seconds
+[2019.02.01-10.53.28:608][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.01-10.53.28:696][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.01-10.53.29:004][  2]LogAssetRegistry: Asset discovery search completed in 21.5689 seconds
+[2019.02.01-10.53.29:007][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.01-10.53.29:007][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000077 seconds (updated 0 objects)
+[2019.02.01-10.53.30:005][  5]LogSlate: Took 0.000433 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.01-12.01.44:670][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.01-12.01.44:769][916]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.01-12.01.44:794][916]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.02.01-12.01.44:797][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.01-12.01.44:818][916]PIE: New page: PIE session: FirstPersonExampleMap (01.02.2019 14:01:44)
+[2019.02.01-12.01.44:835][916]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.02.01-12.01.45:028][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.190478s)
+[2019.02.01-12.01.45:031][916]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.02.01-12.01.45:033][916]LogPlayLevel: PIE: World Init took: (0.005118s)
+[2019.02.01-12.01.45:033][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.197781s)
+[2019.02.01-12.01.45:115][916]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.01-12.01.45:226][916]LogInit: FAudioDevice initialized.
+[2019.02.01-12.01.45:275][916]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.01-12.01.45:284][916]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.02.01-13.01.45
+[2019.02.01-12.01.45:285][916]LogWorld: Bringing up level for play took: 0.007229
+[2019.02.01-12.01.45:356][916]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0022 seconds. Added 20 classes and 0 folders.
+[2019.02.01-12.01.45:358][916]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,196
+[2019.02.01-12.01.45:358][916]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.02.01-12.03.55:379][213]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.02.01-12.03.55:379][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.01-12.03.55:427][213]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.01-12.03.55:428][213]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.02.01-12.03.55:498][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.01-12.03.55:575][214]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.02.01-12.06.43:179][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.01-12.07.17:177][698]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.02.01-12.07.32:395][125]LogMetaData: Removing '/Game/Hovering/HoveringObject_BP.HoveringObject_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Hovering/NewBlueprint.PackageMetaData'
+[2019.02.01-12.07.32:395][125]LogMetaData: Removing '/Game/Hovering/HoveringObject_BP.SKEL_HoveringObject_BP_C' ref from Metadata '/Game/Hovering/NewBlueprint.PackageMetaData'
+[2019.02.01-12.07.32:395][125]LogMetaData: Removing '/Game/Hovering/HoveringObject_BP.HoveringObject_BP_C' ref from Metadata '/Game/Hovering/NewBlueprint.PackageMetaData'
+[2019.02.01-12.07.32:395][125]LogMetaData: Removing '/Game/Hovering/HoveringObject_BP.HoveringObject_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Hovering/NewBlueprint.PackageMetaData'
+[2019.02.01-12.07.32:395][125]LogMetaData: Removing '/Game/Hovering/HoveringObject_BP.HoveringObject_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Hovering/NewBlueprint.PackageMetaData'
+[2019.02.01-12.07.32:395][125]LogMetaData: Removing '/Game/Hovering/HoveringObject_BP.HoveringObject_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Hovering/NewBlueprint.PackageMetaData'
+[2019.02.01-12.07.32:445][125]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HoveringObject_BP2A65B31E4C4EEF22F9CEAFA410B94587.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Hovering/HoveringObject_BP.uasset'
+[2019.02.01-12.07.43:560][255]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Hovering/HoveringObject_BP.HoveringObject_BP
+[2019.02.01-12.07.44:862][255]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 117 classes and 0 folders.
+[2019.02.01-12.07.47:326][255]LogRenderer: Reallocating scene render targets to support 1208x900 Format 10 NumSamples 1 (Frame:1).
+[2019.02.01-12.15.23:545][620]LogSlate: Took 0.020458 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.01-12.16.36:719][478]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.01-12.16.41:704][701]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.01-12.16.46:732][947]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.01-12.16.49:213][ 66]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(54)].
+[2019.02.01-12.16.49:365][ 66]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.067
+[2019.02.01-12.16.49:367][ 66]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Hovering/HoveringObject_BP] ([1] browsable assets)...
+[2019.02.01-12.16.49:392][ 66]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Hovering/HoveringObject_BP.HoveringObject_BP]
+[2019.02.01-12.16.49:392][ 66]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hovering/HoveringObject_BP]
+[2019.02.01-12.16.49:418][ 66]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HoveringObject_BP_Auto11BFCB8A14C1A6D27ED5AE1AA1186EEB7.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Autosaves/Game/Hovering/HoveringObject_BP_Auto1.uasset'
+[2019.02.01-12.16.49:420][ 66]LogFileHelpers: Auto-saving content packages took 0.055
+[2019.02.01-12.16.58:710][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.01-12.17.00:746][525]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.01-12.17.32:980][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.01-12.17.39:230][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.01-12.17.44:139][872]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.01-12.26.49:719][712]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.039
+[2019.02.01-12.26.49:721][712]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Hovering/HoveringObject_BP] ([1] browsable assets)...
+[2019.02.01-12.26.49:763][712]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Hovering/HoveringObject_BP.HoveringObject_BP]
+[2019.02.01-12.26.49:763][712]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hovering/HoveringObject_BP]
+[2019.02.01-12.26.49:789][712]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HoveringObject_BP_Auto217D35BB24FA055BF6EF20AAC7C753E1F.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Autosaves/Game/Hovering/HoveringObject_BP_Auto2.uasset'
+[2019.02.01-12.26.49:792][712]LogFileHelpers: Auto-saving content packages took 0.071
+[2019.02.01-12.38.15:340][789]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.01-12.38.15:363][789]LogSlate: Took 0.020025 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.01-12.43.38:846][724]BlueprintLog: New page: Compile HoveringObject_BP
+[2019.02.01-12.43.39:670][752]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HoveringObject_BPC48714D3447E2A33CEBE6AB791398D85.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Hovering/HoveringObject_BP.uasset'
+[2019.02.01-12.59.08:100][170]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.035
+[2019.02.01-12.59.08:101][170]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Hovering/HoveringObject_BP] ([1] browsable assets)...
+[2019.02.01-12.59.08:144][170]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Hovering/HoveringObject_BP.HoveringObject_BP]
+[2019.02.01-12.59.08:144][170]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hovering/HoveringObject_BP]
+[2019.02.01-12.59.08:176][170]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HoveringObject_BP_Auto390EBF5824B9A381A5E64E4960BD5394D.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Autosaves/Game/Hovering/HoveringObject_BP_Auto3.uasset'
+[2019.02.01-12.59.08:216][170]LogFileHelpers: Auto-saving content packages took 0.115
+[2019.02.01-13.02.29:735][ 34]LogSlate: Window 'Create External Curve' being destroyed
+[2019.02.01-13.06.34:509][843]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HoveringObject_BP13EE3611443490FFC5BBB292511D5A8B.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Hovering/HoveringObject_BP.uasset'
+[2019.02.01-13.06.35:004][871]BlueprintLog: New page: Compile HoveringObject_BP
+[2019.02.01-13.06.35:854][906]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HoveringObject_BPD0EFBBE94691CD9BBCA5859E372CABA4.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Hovering/HoveringObject_BP.uasset'
+[2019.02.01-13.07.24:012][935]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HoveringObject_BPC5FE1E0549BB1E4058B30BBFB9EFCA40.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Hovering/HoveringObject_BP.uasset'
+[2019.02.01-13.07.26:544][ 77]BlueprintLog: New page: Compile HoveringObject_BP
+[2019.02.01-13.07.27:334][108]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HoveringObject_BP82A1BF854DEECE6AEBBC8F92C4FAFBB3.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Hovering/HoveringObject_BP.uasset'
+[2019.02.01-13.09.41:110][743]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.045
+[2019.02.01-13.09.41:112][743]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Hovering/HoveringObject_BP] ([1] browsable assets)...
+[2019.02.01-13.09.41:154][743]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Hovering/HoveringObject_BP.HoveringObject_BP]
+[2019.02.01-13.09.41:154][743]OBJ SavePackage: Finished generating thumbnails for package [/Game/Hovering/HoveringObject_BP]
+[2019.02.01-13.09.41:196][743]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HoveringObject_BP_Auto4FEEFB5504EB13DA74F0B1B806A14AD3D.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Autosaves/Game/Hovering/HoveringObject_BP_Auto4.uasset'
+[2019.02.01-13.09.41:200][743]LogFileHelpers: Auto-saving content packages took 0.087
+[2019.02.01-13.10.21:900][436]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HoveringObject_BPFA5BD6D54FE3AE26BCBEAC9C1EE8687D.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Hovering/HoveringObject_BP.uasset'
+[2019.02.01-13.10.23:031][503]BlueprintLog: New page: Compile HoveringObject_BP
+[2019.02.01-13.11.16:518][249]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HoveringObject_BP9D5821794DA829BB64ADC18DE9F4C978.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Hovering/HoveringObject_BP.uasset'
+[2019.02.01-13.12.41:470][710]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::Add_FloatFloat' [Element not found.]
+[2019.02.01-13.13.46:620][430]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HoveringObject_BP1F65FEBB4CFC4FDC1F5EA5AAA9D8199E.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Hovering/HoveringObject_BP.uasset'
+[2019.02.01-13.13.50:669][662]LogSlate: Window 'HoveringObject_BP' being destroyed
+[2019.02.01-13.14.24:578][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.01-13.14.27:462][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.01-13.14.27:545][900]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.01-13.14.27:559][900]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.02.01-13.14.27:559][900]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.01-13.14.27:562][900]LogPlayLevel: [PlayLevel] Compiling HoveringObject_BP before play...
+[2019.02.01-13.14.27:752][900]LogPlayLevel: PlayLevel: Blueprint regeneration took 193 ms (1 blueprints)
+[2019.02.01-13.14.27:752][900]PIE: New page: PIE session: FirstPersonExampleMap (01.02.2019 15:14:27)
+[2019.02.01-13.14.27:752][900]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2019.02.01-13.14.27:798][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045125s)
+[2019.02.01-13.14.27:799][900]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.02.01-13.14.27:799][900]LogPlayLevel: PIE: World Init took: (0.001525s)
+[2019.02.01-13.14.27:799][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.046894s)
+[2019.02.01-13.14.27:845][900]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.01-13.14.27:930][900]LogInit: FAudioDevice initialized.
+[2019.02.01-13.14.27:965][900]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.01-13.14.27:972][900]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2019.02.01-14.14.27
+[2019.02.01-13.14.27:988][900]LogWorld: Bringing up level for play took: 0.021328
+[2019.02.01-13.14.28:023][900]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,469
+[2019.02.01-13.14.28:023][900]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.02.01-13.30.25:113][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.01-13.30.26:200][ 56]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.02.01-13.30.26:201][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.01-13.30.26:255][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.01-13.30.26:256][ 56]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2019.02.01-13.30.26:332][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.01-13.30.26:380][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.02.01-13.30.41:532][923]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.01-13.31.03:072][204]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:072][204]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:073][204]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:073][204]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:073][204]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:073][204]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:089][205]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:089][205]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:089][205]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:089][205]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:105][206]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:105][206]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:106][206]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:106][206]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:122][207]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:122][207]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:122][207]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:122][207]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:139][208]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:139][208]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:139][208]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:139][208]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:155][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:155][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:155][209]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:155][209]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:171][210]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:171][210]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:171][210]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:171][210]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:188][211]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:188][211]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:188][211]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:188][211]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:205][212]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:205][212]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:205][212]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:205][212]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:221][213]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:221][213]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:222][213]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:222][213]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:238][214]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:238][214]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:238][214]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:238][214]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:255][215]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:255][215]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:255][215]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:255][215]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:272][216]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:272][216]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:272][216]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:272][216]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:288][217]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:288][217]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:288][217]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:289][217]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:305][218]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:305][218]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:305][218]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:305][218]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:322][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:322][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:322][219]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:322][219]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:338][220]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:339][220]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:339][220]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:339][220]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:355][221]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:355][221]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:355][221]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:355][221]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:372][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:372][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:372][222]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:372][222]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:388][223]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:388][223]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:389][223]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:389][223]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:405][224]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:405][224]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:406][224]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:406][224]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:422][225]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:422][225]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:422][225]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:422][225]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:438][226]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:439][226]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:439][226]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:439][226]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:455][227]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:455][227]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:456][227]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:456][227]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:472][228]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:472][228]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:473][228]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:473][228]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:489][229]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:489][229]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:489][229]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:489][229]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:505][230]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:505][230]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:506][230]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:506][230]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:522][231]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:522][231]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.03:523][231]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.03:523][231]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.04:889][313]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.04:889][313]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.04:890][313]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.04:890][313]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.04:890][313]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.04:890][313]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.04:906][314]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.04:906][314]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.04:906][314]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.04:906][314]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.04:922][315]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.04:922][315]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.04:923][315]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.04:923][315]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.04:938][316]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.04:938][316]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.04:938][316]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.04:939][316]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.04:955][317]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.04:955][317]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.04:955][317]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.04:955][317]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.04:972][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.04:972][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.04:973][318]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.04:973][318]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.04:989][319]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.04:989][319]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.04:990][319]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.04:990][319]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:006][320]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:006][320]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:006][320]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:006][320]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:022][321]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:022][321]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:023][321]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:023][321]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:039][322]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:039][322]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:040][322]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:040][322]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:055][323]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:055][323]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:056][323]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:056][323]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:072][324]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:072][324]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:072][324]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:073][324]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:089][325]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:089][325]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:089][325]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:089][325]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:106][326]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:106][326]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:106][326]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:106][326]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:123][327]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:123][327]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:124][327]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:124][327]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:139][328]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:139][328]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:140][328]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:140][328]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:156][329]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:157][329]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:157][329]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:157][329]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:172][330]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:172][330]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:172][330]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:172][330]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:189][331]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:189][331]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:189][331]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:189][331]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:207][332]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:207][332]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:207][332]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:207][332]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:223][333]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:223][333]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:223][333]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:224][333]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:239][334]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:239][334]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.05:239][334]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2019.02.01-13.31.05:239][334]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2019.02.01-13.31.10:341][640]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.01-13.31.17:547][ 67]LogEditorTransaction: Undo Set Scale
+[2019.02.01-13.31.17:551][ 67]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.02.01-13.31.17:781][ 67]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.231 s
+[2019.02.01-13.31.17:784][ 67]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.01-13.31.17:784][ 67]LogOutputDevice: Error: 
+[2019.02.01-13.31.17:784][ 67]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2019.02.01-13.31.17:784][ 67]LogOutputDevice: Error: 
+[2019.02.01-13.31.17:784][ 67]LogOutputDevice: Error: Stack: 
+[2019.02.01-13.31.17:784][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad8c59996 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.01-13.31.17:784][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad8bff8ba UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.01-13.31.17:784][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad139fa42 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad13a0795 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad134d4c1 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffada4bfe72 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffada484809 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffada52c40e UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffada339ca1 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffada2d0fd4 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad77a8444 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad750b7cf UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad74e0299 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad78acd43 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad788ec40 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad7838744 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad7895baa UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad74bef3b UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad74f16ee UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad7512c2d UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad8bffeed UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad8c2ac06 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad8c1131c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad8c7b337 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad8cbf63f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad8c5717f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.01-13.31.17:785][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad74e0fe8 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffada2d206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffada314c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad94d6bee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffad94c4b88 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffada29694c UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffada31697c UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffada309a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffb26a7daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffb26a70de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffb26a801eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffb26a6ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffb67af6d41 USER32.dll!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffb67af6713 USER32.dll!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffb26a81746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff7271d5546 UE4Editor.exe!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff7271e596c UE4Editor.exe!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff7271e59ea UE4Editor.exe!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff7271f48da UE4Editor.exe!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ff7271f659a UE4Editor.exe!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffb65d33034 KERNEL32.DLL!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: [Callstack] 0x00007ffb683e3691 ntdll.dll!UnknownFunction []
+[2019.02.01-13.31.17:786][ 67]LogOutputDevice: Error: 
+[2019.02.01-13.31.17:789][ 67]LogStats:                SubmitErrorReport -  0.000 s
