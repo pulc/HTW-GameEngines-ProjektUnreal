@@ -1,0 +1,1538 @@
+﻿Log file open, 02/05/19 15:48:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProjectUnreal
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.318938
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogStreaming: Display: Took  0.104s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4613538
+LogInit: Engine Version: 4.21.1-4613538+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Nov 30 2018 04:13:25
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.004s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.02.05-14.48.20:466][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.02.05-14.48.20:466][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.02.05-14.48.20:466][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Engine.ini]
+[2019.02.05-14.48.20:466][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.02.05-14.48.20:466][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Engine.ini]
+[2019.02.05-14.48.20:466][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Engine.ini]
+[2019.02.05-14.48.20:466][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.02.05-14.48.20:466][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.02.05-14.48.20:466][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.02.05-14.48.20:466][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.02.05-14.48.20:466][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.02.05-14.48.20:466][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.02.05-14.48.20:466][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.02.05-14.48.20:466][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.02.05-14.48.20:466][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.02.05-14.48.20:466][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.02.05-14.48.20:467][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.02.05-14.48.20:467][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.02.05-14.48.20:467][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.02.05-14.48.20:467][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Engine.ini]
+[2019.02.05-14.48.20:467][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.02.05-14.48.20:467][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.02.05-14.48.20:467][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.02.05-14.48.20:467][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.02.05-14.48.20:467][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.02.05-14.48.20:467][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.02.05-14.48.20:467][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.02.05-14.48.20:467][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.02.05-14.48.20:467][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.02.05-14.48.20:467][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.02.05-14.48.20:467][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.02.05-14.48.20:467][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.02.05-14.48.20:467][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.02.05-14.48.20:467][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.02.05-14.48.20:467][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Engine.ini]
+[2019.02.05-14.48.20:467][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Engine.ini]
+[2019.02.05-14.48.20:470][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.05-14.48.20:470][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.05-14.48.20:471][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.05-14.48.20:471][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.05-14.48.20:471][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.02.05-14.48.20:480][  0]LogHAL: Display: Platform has ~ 16 GB [17017679872 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.02.05-14.48.20:480][  0]LogInit: Going up to parent DeviceProfile []
+[2019.02.05-14.48.20:480][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.02.05-14.48.20:480][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Scalability.ini]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.02.05-14.48.20:481][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.02.05-14.48.20:481][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Config/Windows/Engine.ini]
+[2019.02.05-14.48.20:481][  0]LogInit: Computer: MSI
+[2019.02.05-14.48.20:481][  0]LogInit: User: pulc
+[2019.02.05-14.48.20:481][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.02.05-14.48.20:481][  0]LogInit: High frequency timer resolution =2.531254 MHz
+[2019.02.05-14.48.20:482][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.02.05-14.48.20:482][  0]LogMemory: Platform Memory Stats for Windows
+[2019.02.05-14.48.20:482][  0]LogMemory: Process Physical Memory: 103.18 MB used, 103.18 MB peak
+[2019.02.05-14.48.20:482][  0]LogMemory: Process Virtual Memory: 90.42 MB used, 90.42 MB peak
+[2019.02.05-14.48.20:482][  0]LogMemory: Physical Memory: 8199.57 MB used,  8029.76 MB free, 16229.32 MB total
+[2019.02.05-14.48.20:482][  0]LogMemory: Virtual Memory: 4636.82 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.02.05-14.48.20:510][  0]LogInit: Using OS detected language (en-US).
+[2019.02.05-14.48.20:510][  0]LogInit: Using OS detected locale (de-DE).
+[2019.02.05-14.48.20:513][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.02.05-14.48.20:995][  0]LogStreaming: Display: Took  0.485s to InitEngineTextLocalization.
+[2019.02.05-14.48.20:996][  0]LogInit: Setting process to per monitor DPI aware
+[2019.02.05-14.48.21:044][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.02.05-14.48.21:044][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.02.05-14.48.21:416][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.05-14.48.21:416][  0]LogD3D11RHI: D3D11 adapters:
+[2019.02.05-14.48.21:486][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2019.02.05-14.48.21:486][  0]LogD3D11RHI:       2010/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.02.05-14.48.21:500][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.02.05-14.48.21:500][  0]LogD3D11RHI:       128/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.02.05-14.48.21:503][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.02.05-14.48.21:503][  0]LogD3D11RHI:       0/0/8114 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.02.05-14.48.21:503][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.02.05-14.48.21:547][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.02.05-14.48.21:547][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2019.02.05-14.48.21:547][  0]LogWindows: EnumDisplayDevices:
+[2019.02.05-14.48.21:548][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.02.05-14.48.21:548][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.02.05-14.48.21:548][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.02.05-14.48.21:549][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.02.05-14.48.21:549][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2019.02.05-14.48.21:549][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.02.05-14.48.21:549][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.02.05-14.48.21:549][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.02.05-14.48.21:590][  0]LogD3D11RHI: Async texture creation enabled
+[2019.02.05-14.48.21:608][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.02.05-14.48.22:055][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.02.05-14.48.22:071][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.02.05-14.48.22:088][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.02.05-14.48.22:104][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.02.05-14.48.22:125][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.02.05-14.48.22:143][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.02.05-14.48.22:161][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.02.05-14.48.22:178][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.02.05-14.48.22:188][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.02.05-14.48.22:280][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-14.48.22:280][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-14.48.22:280][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-14.48.22:280][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-14.48.22:280][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-14.48.22:280][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-14.48.22:280][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-14.48.22:280][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-14.48.22:280][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-14.48.22:280][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-14.48.22:280][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-14.48.22:280][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-14.48.22:281][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-14.48.22:281][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-14.48.22:281][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-14.48.22:281][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-14.48.22:281][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-14.48.22:281][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.02.05-14.48.22:283][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.02.05-14.48.22:351][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.05-14.48.22:351][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.02.05-14.48.22:381][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.05-14.48.22:381][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.02.05-14.48.22:395][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.02.05-14.48.22:408][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.02.05-14.48.22:424][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.02.05-14.48.22:440][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.02.05-14.48.22:511][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.05-14.48.22:511][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.02.05-14.48.22:511][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.02.05-14.48.22:608][  0]LogShaderCompilers: Guid format shader working directory is -69 characters bigger than the processId version (../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Intermediate/Shaders/WorkingDirectory/16928/).
+[2019.02.05-14.48.22:608][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/pulc/AppData/Local/Temp/UnrealShaderWorkingDir/89323B2F48BF575E36CD9B858A5633E1/'.
+[2019.02.05-14.48.22:612][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.02.05-14.48.22:613][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.02.05-14.48.22:613][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.02.05-14.48.23:275][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.02.05-14.48.23:340][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/pulc/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.05-14.48.23:340][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/pulc/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.02.05-14.48.23:340][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.02.05-14.48.23:340][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.02.05-14.48.23:340][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.02.05-14.48.23:340][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.02.05-14.48.23:356][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.02.05-14.48.23:360][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2019.02.05-14.48.23:373][  0]LogDerivedDataCache: Using Local data cache path C:/Users/pulc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.02.05-14.48.23:373][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.02.05-14.48.23:373][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.02.05-14.48.23:403][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.02.05-14.48.23:405][  0]LogSlate: Using FreeType 2.6.0
+[2019.02.05-14.48.23:406][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.02.05-14.48.23:531][  0]LogAssetRegistry: FAssetRegistry took 0.0361 seconds to start up
+[2019.02.05-14.48.23:930][  0]LogInit: Selected Device Profile: [Windows]
+[2019.02.05-14.48.24:148][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.02.05-14.48.24:154][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.02.05-14.48.24:154][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.02.05-14.48.24:154][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.02.05-14.48.24:154][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.02.05-14.48.24:172][  0]LogNetVersion: ProjectUnreal 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1356592797)
+[2019.02.05-14.48.24:879][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 2 prioritized culture(s) in 0.192780 seconds
+[2019.02.05-14.48.24:888][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.02.05-14.48.24:888][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.02.05-14.48.24:888][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.02.05-14.48.26:205][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.02.05-14.48.26:218][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.02.05-14.48.27:218][  0]SourceControl: Source control is disabled
+[2019.02.05-14.48.27:218][  0]SourceControl: Source control is disabled
+[2019.02.05-14.48.27:220][  0]SourceControl: Source control is disabled
+[2019.02.05-14.48.27:222][  0]SourceControl: Source control is disabled
+[2019.02.05-14.48.27:424][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.02.05-14.48.27:503][  0]LogOcInput: OculusInput pre-init called
+[2019.02.05-14.48.29:590][  0]LogEngine: Initializing Engine...
+[2019.02.05-14.48.29:591][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.02.05-14.48.29:593][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.05-14.48.29:593][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.05-14.48.29:594][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.05-14.48.29:594][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.05-14.48.29:881][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.02.05-14.48.29:906][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.02.05-14.48.29:924][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.05-14.48.30:026][  0]LogInit: FAudioDevice initialized.
+[2019.02.05-14.48.30:027][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.02.05-14.48.30:159][  0]LogDerivedDataCache: Saved boot cache 0.13s 71MB C:/Users/pulc/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.02.05-14.48.30:170][  0]LogInit: Texture streaming: Enabled
+[2019.02.05-14.48.30:199][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.02.05-14.48.30:219][  0]LogInit: Transaction tracking system initialized
+[2019.02.05-14.48.30:258][  0]BlueprintLog: New page: Editor Load
+[2019.02.05-14.48.30:377][  0]LocalizationService: Localization service is disabled
+[2019.02.05-14.48.31:083][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/' took 0.03s
+[2019.02.05-14.48.31:083][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.02.05-14.48.31:083][  0]LogCook: Display: Mobile HDR setting 1
+[2019.02.05-14.48.31:083][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.02.05-14.48.31:083][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.02.05-14.48.31:083][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.02.05-14.48.31:083][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.02.05-14.48.31:083][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.02.05-14.48.33:186][  0]SourceControl: Source control is disabled
+[2019.02.05-14.48.33:186][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.02.05-14.48.33:187][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.05-14.48.33:187][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,192ms to complete.
+[2019.02.05-14.48.33:187][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.001
+[2019.02.05-14.48.33:298][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-14.48.33:304][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-14.48.33:311][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-14.48.33:318][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-14.48.33:332][  0]LogCollectionManager: Loaded 0 collections in 0.005246 seconds
+[2019.02.05-14.48.33:351][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Collections/' took 0.01s
+[2019.02.05-14.48.33:351][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Developers/pulc/Collections/' took 0.00s
+[2019.02.05-14.48.33:351][  0]LogFileCache: Scanning file cache for directory 'C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Collections/' took 0.00s
+[2019.02.05-14.48.33:351][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.02.05-14.48.33:361][  0]LogContentBrowser: Native class hierarchy populated in 0.0102 seconds. Added 2709 classes and 653 folders.
+[2019.02.05-14.48.33:371][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.05-14.48.33:374][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:375][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:375][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:376][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:377][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:377][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:378][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:378][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:379][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:379][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:380][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:381][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:381][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:382][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:383][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:383][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:384][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:385][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:385][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:386][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:386][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:388][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:388][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:389][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:389][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:390][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:390][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.02.05-14.48.33:490][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.05-14.48.33:497][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.02.05-14.48.33:516][  0]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.05-14.48.33:519][  0]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.05-14.48.33:525][  0]LogSlate: Took 0.000372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.05-14.48.33:620][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2019.02.05-14.48.33:748][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.02.05-14.48.33:748][  0]LogLoad: (Engine Initialization) Total time: 16.16 seconds
+[2019.02.05-14.48.33:748][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.02.05-14.48.33:767][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.05-14.48.33:816][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.02.05-14.48.33:845][  1]LogAssetRegistry: Asset discovery search completed in 10.3358 seconds
+[2019.02.05-14.48.33:846][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.02.05-14.48.33:846][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2019.02.05-14.48.45:556][159]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-14.48.47:832][295]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-14.48.52:415][568]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.05-14.48.54:215][674]Cmd: MAP LOAD FILE="../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level0.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.02.05-14.48.54:223][674]LogSlate: Took 0.000275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.05-14.48.54:247][674]LightingResults: New page: Lighting Build
+[2019.02.05-14.48.54:252][674]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2019.02.05-14.48.54:252][674]LoadErrors: New page: Loading map: Level0.umap
+[2019.02.05-14.48.54:253][674]MapCheck: New page: Map Check
+[2019.02.05-14.48.54:253][674]LightingResults: New page: Lighting Build
+[2019.02.05-14.48.54:643][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:644][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading ../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level0.umap.
+[2019.02.05-14.48.54:644][674]LoadErrors: Error: /Game/Maps/Level0 : Can't find file for asset. /Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7
+[2019.02.05-14.48.54:644][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Level0_BuiltData'
+[2019.02.05-14.48.54:644][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Level0_BuiltData' while loading ../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level0.umap.
+[2019.02.05-14.48.54:644][674]LoadErrors: Error: /Game/Maps/Level0 : Can't find file for asset. /Game/FirstPersonBP/Maps/Level0_BuiltData
+[2019.02.05-14.48.54:672][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:672][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading ../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level0.umap.
+[2019.02.05-14.48.54:672][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Level0_BuiltData'
+[2019.02.05-14.48.54:673][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Level0_BuiltData' while loading ../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level0.umap.
+[2019.02.05-14.48.54:676][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:676][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:676][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Level0_BuiltData'
+[2019.02.05-14.48.54:676][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Level0_BuiltData' while loading NULL.
+[2019.02.05-14.48.54:676][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:676][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:677][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Level0_BuiltData'
+[2019.02.05-14.48.54:677][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Level0_BuiltData' while loading NULL.
+[2019.02.05-14.48.54:740][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:740][674]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7.Grass_LayerInfo7 Referenced by Landscape_0
+[2019.02.05-14.48.54:740][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:741][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:741][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:741][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:741][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:742][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:742][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:742][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:742][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:743][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:743][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:743][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:743][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:743][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:744][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:744][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:744][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:744][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:744][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:745][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:745][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:745][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:745][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:746][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:746][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:746][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:746][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:746][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:747][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:747][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:747][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:747][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:747][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:748][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:748][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:748][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:748][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:749][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:749][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:749][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:749][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:749][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:750][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:750][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:750][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:750][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:750][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:751][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:751][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:751][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:751][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:752][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:752][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:752][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:752][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:752][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:753][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:753][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:753][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:753][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:753][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:754][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:754][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:754][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:754][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:755][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:755][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:755][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:755][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:755][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:756][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:756][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:756][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:756][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:756][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:757][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:757][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:757][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:757][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:758][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:758][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:758][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:758][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:758][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:759][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:759][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:759][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:759][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:759][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:760][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:760][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:760][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:760][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:761][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:761][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:761][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:761][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:761][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:762][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:762][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:762][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:762][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:763][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:763][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:763][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:763][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:763][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:764][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:764][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:764][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:764][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:764][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:765][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:765][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:765][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:765][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:766][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:766][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:766][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:766][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:766][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:767][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:767][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:767][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:767][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:768][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:768][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:768][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:768][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:776][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:776][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:777][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:777][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:777][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:777][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:777][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:777][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:778][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:778][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:778][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:778][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:779][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:779][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:779][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:779][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:779][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:780][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:780][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:780][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:780][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:780][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:780][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:780][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:780][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:780][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:780][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:780][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:781][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:781][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:781][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:781][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:782][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:782][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:782][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:782][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:782][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:782][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:783][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:783][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:783][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:783][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:783][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:783][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:784][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:784][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:784][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:784][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:784][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:785][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:785][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:785][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:785][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:785][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:786][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:786][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:786][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:786][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:786][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:786][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:787][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:787][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:787][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:787][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:787][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:788][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:788][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:788][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:788][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:788][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:789][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:789][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:789][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:789][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:789][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:790][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:790][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:790][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:790][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:790][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:791][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:791][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:791][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:791][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:791][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:792][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:792][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:792][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:792][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:793][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:793][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:793][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:793][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:793][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:793][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:794][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:794][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:794][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:794][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:794][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:795][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:795][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:795][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:795][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:795][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:796][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:796][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:796][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:796][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:796][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:796][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:797][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:797][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:797][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:797][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:797][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:798][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:798][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:798][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:798][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:798][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:798][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:799][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:799][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:799][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:799][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:800][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7'
+[2019.02.05-14.48.54:800][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/FirstPersonExampleMap_sharedassets/Grass_LayerInfo7' while loading NULL.
+[2019.02.05-14.48.54:803][674]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/Maps/Level0_BuiltData'
+[2019.02.05-14.48.54:803][674]LoadErrors: Failed to load /Game/FirstPersonBP/Maps/Level0_BuiltData.Level0_BuiltData Referenced by PersistentLevel
+[2019.02.05-14.48.54:803][674]LogLinker: Warning: Can't find file for asset '/Game/FirstPersonBP/Maps/Level0_BuiltData' while loading NULL.
+[2019.02.05-14.48.54:907][674]MapCheck: Warning: LandscapeComponent_0 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:957][674]MapCheck: Warning: LandscapeComponent_1 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:957][674]MapCheck: Warning: LandscapeComponent_2 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:958][674]MapCheck: Warning: LandscapeComponent_3 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:959][674]MapCheck: Warning: LandscapeComponent_4 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:960][674]MapCheck: Warning: LandscapeComponent_5 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:960][674]MapCheck: Warning: LandscapeComponent_6 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:961][674]MapCheck: Warning: LandscapeComponent_7 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:961][674]MapCheck: Warning: LandscapeComponent_8 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:962][674]MapCheck: Warning: LandscapeComponent_9 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:962][674]MapCheck: Warning: LandscapeComponent_10 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:962][674]MapCheck: Warning: LandscapeComponent_11 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:963][674]MapCheck: Warning: LandscapeComponent_12 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:963][674]MapCheck: Warning: LandscapeComponent_13 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:963][674]MapCheck: Warning: LandscapeComponent_14 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:963][674]MapCheck: Warning: LandscapeComponent_15 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:964][674]MapCheck: Warning: LandscapeComponent_16 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:964][674]MapCheck: Warning: LandscapeComponent_17 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:965][674]MapCheck: Warning: LandscapeComponent_18 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:965][674]MapCheck: Warning: LandscapeComponent_19 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:965][674]MapCheck: Warning: LandscapeComponent_20 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:965][674]MapCheck: Warning: LandscapeComponent_21 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:965][674]MapCheck: Warning: LandscapeComponent_22 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:966][674]MapCheck: Warning: LandscapeComponent_23 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:966][674]MapCheck: Warning: LandscapeComponent_24 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:966][674]MapCheck: Warning: LandscapeComponent_25 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:966][674]MapCheck: Warning: LandscapeComponent_26 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:967][674]MapCheck: Warning: LandscapeComponent_27 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:967][674]MapCheck: Warning: LandscapeComponent_28 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:967][674]MapCheck: Warning: LandscapeComponent_29 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:967][674]MapCheck: Warning: LandscapeComponent_30 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:968][674]MapCheck: Warning: LandscapeComponent_31 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:968][674]MapCheck: Warning: LandscapeComponent_32 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:968][674]MapCheck: Warning: LandscapeComponent_33 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:968][674]MapCheck: Warning: LandscapeComponent_34 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:969][674]MapCheck: Warning: LandscapeComponent_35 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:969][674]MapCheck: Warning: LandscapeComponent_36 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:969][674]MapCheck: Warning: LandscapeComponent_37 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:969][674]MapCheck: Warning: LandscapeComponent_38 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:970][674]MapCheck: Warning: LandscapeComponent_39 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:970][674]MapCheck: Warning: LandscapeComponent_40 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:970][674]MapCheck: Warning: LandscapeComponent_41 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:970][674]MapCheck: Warning: LandscapeComponent_42 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:971][674]MapCheck: Warning: LandscapeComponent_43 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:971][674]MapCheck: Warning: LandscapeComponent_44 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:971][674]MapCheck: Warning: LandscapeComponent_45 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:971][674]MapCheck: Warning: LandscapeComponent_46 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:972][674]MapCheck: Warning: LandscapeComponent_47 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:972][674]MapCheck: Warning: LandscapeComponent_48 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:972][674]MapCheck: Warning: LandscapeComponent_49 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:972][674]MapCheck: Warning: LandscapeComponent_50 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:973][674]MapCheck: Warning: LandscapeComponent_51 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:973][674]MapCheck: Warning: LandscapeComponent_52 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:973][674]MapCheck: Warning: LandscapeComponent_53 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:973][674]MapCheck: Warning: LandscapeComponent_54 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:974][674]MapCheck: Warning: LandscapeComponent_55 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:974][674]MapCheck: Warning: LandscapeComponent_56 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:974][674]MapCheck: Warning: LandscapeComponent_57 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:974][674]MapCheck: Warning: LandscapeComponent_58 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:975][674]MapCheck: Warning: LandscapeComponent_59 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:975][674]MapCheck: Warning: LandscapeComponent_60 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:975][674]MapCheck: Warning: LandscapeComponent_61 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:975][674]MapCheck: Warning: LandscapeComponent_62 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.54:975][674]MapCheck: Warning: LandscapeComponent_63 : Fixed up deleted layer weightmap 
+[2019.02.05-14.48.55:215][674]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-14.48.55:320][674]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.02.05-14.48.55:402][674]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.02.05-14.48.55:402][674]MapCheck: Map check complete: 0 Error(s), 64 Warning(s), took 0,189ms to complete.
+[2019.02.05-14.48.55:410][674]LogFileHelpers: Loading map 'Level0' took 1.195
+[2019.02.05-14.48.55:412][674]LogSlate: Window 'Open Level' being destroyed
+[2019.02.05-14.48.57:445][787]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-14.48.57:452][787]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-14.49.08:170][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-14.49.12:471][596]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-14.49.12:483][596]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-14.49.12:483][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-14.49.12:483][596]PIE: New page: PIE session: Level0 (05.02.2019 16:49:12)
+[2019.02.05-14.49.12:496][596]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-14.49.12:555][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.058926s)
+[2019.02.05-14.49.12:556][596]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-14.49.12:556][596]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2019.02.05-14.49.12:557][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.060533s)
+[2019.02.05-14.49.12:591][596]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.05-14.49.12:676][596]LogInit: FAudioDevice initialized.
+[2019.02.05-14.49.12:716][596]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-14.49.12:724][596]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-15.49.12
+[2019.02.05-14.49.12:725][596]LogWorld: Bringing up level for play took: 0.007291
+[2019.02.05-14.49.12:737][596]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-14.49.12:746][596]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.02.05-14.49.12:748][596]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 0,792
+[2019.02.05-14.49.12:749][596]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-14.49.18:820][697]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.49.23:209][736]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-14.49.23:211][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-14.49.23:363][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-14.49.23:363][736]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-14.49.23:459][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-14.49.23:642][737]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.02.05-14.50.07:158][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-14.50.10:421][930]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/HUD.HUD
+[2019.02.05-14.50.11:043][930]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.02.05-14.50.11:853][930]LogSlate: Took 0.000375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.05-14.52.39:738][864]LogSlate: Window 'HUD*' being destroyed
+[2019.02.05-14.52.40:230][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-14.52.41:507][897]MapCheck: New page: Map Check
+[2019.02.05-14.52.41:762][897]Cmd: MAP REBUILD ALLVISIBLE
+[2019.02.05-14.52.41:762][897]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.02.05-14.52.41:904][897]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy AntiAliasedTextMaterialTranslucent, compiling. 
+[2019.02.05-14.52.41:913][897]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.02.05-14.52.41:921][897]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.05-14.52.41:921][897]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.05-14.52.41:921][897]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2019.02.05-14.52.41:930][897]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FieldGrass_Inst_01, compiling. 
+[2019.02.05-14.52.41:942][897]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.05-14.52.41:942][897]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.05-14.52.41:942][897]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FieldGrass_Inst_01_LOD1, compiling. 
+[2019.02.05-14.52.41:955][897]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FieldGrass_Inst_01_LOD2, compiling. 
+[2019.02.05-14.52.41:973][897]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Floor, compiling. 
+[2019.02.05-14.52.41:989][897]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Walls, compiling. 
+[2019.02.05-14.52.42:004][897]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Concrete_Tiles, compiling. 
+[2019.02.05-14.52.42:020][897]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2019.02.05-14.52.42:034][897]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.02.05-14.52.42:048][897]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Laser, compiling. 
+[2019.02.05-14.52.42:062][897]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2019.02.05-14.52.42:074][897]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2019.02.05-14.52.42:085][897]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2019.02.05-14.52.42:093][897]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Frame, compiling. 
+[2019.02.05-14.52.42:101][897]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.02.05-14.52.42:109][897]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2019.02.05-14.52.42:120][897]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2019.02.05-14.52.43:283][897]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.05-14.52.43:284][897]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.05-14.52.43:284][897]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.05-14.52.43:284][897]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.05-14.52.43:284][897]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.05-14.52.43:284][897]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.05-14.52.43:284][897]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.05-14.52.43:284][897]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.05-14.52.43:284][897]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.05-14.52.43:284][897]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.05-14.52.43:284][897]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.05-14.52.43:284][897]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.05-14.52.43:284][897]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.05-14.52.43:284][897]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.05-14.52.43:284][897]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.05-14.52.43:284][897]TextureStreamingBuild: Display: Compiling optional shaders took 1.386 seconds.
+[2019.02.05-14.52.43:380][897]LogLevel: Display: Export Material TexCoord Scales took 0.097 seconds.
+[2019.02.05-14.52.43:417][897]TextureStreamingBuild: Display: Build Texture Streaming took 0.037 seconds.
+[2019.02.05-14.52.43:448][897]LightingResults: New page: Lighting Build - 05.02.2019 16:52:43
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:462][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:463][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:464][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:464][897]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.05-14.52.43:496][897]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.02.05-14.52.43:696][897]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.02.05-14.52.43:711][897]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.02.05-14.52.44:227][897]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.02.05-14.52.44:227][897]LogSwarmInterface: [TryOpenConnection] Local Process ID is 16928
+[2019.02.05-14.52.46:823][897]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.02.05-14.52.46:823][897]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.02.05-14.52.46:823][897]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.02.05-14.52.46:823][897]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.02.05-14.52.46:823][897]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.02.05-14.52.46:823][897]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.02.05-14.52.47:113][897]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.02.05-14.52.47:113][897]MapCheck: New page: Level0 - 05.02.2019 16:52:47
+[2019.02.05-14.52.47:113][897]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2019.02.05-14.52.47:116][897]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 3,095ms to complete.
+[2019.02.05-14.52.47:139][897]LogEditorBuildUtils: Build time 0:05
+[2019.02.05-14.52.47:152][897]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-14.52.47:249][898]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_2, compiling. 
+[2019.02.05-14.52.47:265][898]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_2, compiling. 
+[2019.02.05-14.52.47:287][898]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.05-14.52.47:287][898]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.05-14.52.54:498][954]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-14.52.54:634][954]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-14.53.23:714][177]Job is a success!
+[2019.02.05-14.53.24:001][178]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-14.53.24:381][178]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.146s
+[2019.02.05-14.53.24:382][178]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.02.05-14.53.24:382][178]LogVolumetricLightmapImport:      BrickData 610x5x5 = 0.6Mb (trimmed 5.0Mb due to 0.010000 MinBrickError)
+[2019.02.05-14.53.24:382][178]LogVolumetricLightmapImport:      Bricks at Level
+[2019.02.05-14.53.24:382][178]LogVolumetricLightmapImport:          0: 6.6% covering 100.0% of volume
+[2019.02.05-14.53.24:382][178]LogVolumetricLightmapImport:          1: 63.1% covering 15.0% of volume
+[2019.02.05-14.53.24:382][178]LogVolumetricLightmapImport:          2: 30.3% covering 0.1% of volume
+[2019.02.05-14.53.24:912][178]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.02.05-14.53.24:912][178]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.02.05-14.53.24:912][178]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.02.05-14.53.24:912][178]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 128X64)
+[2019.02.05-14.53.24:912][178]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 128X128)
+[2019.02.05-14.53.24:912][178]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 128X128)
+[2019.02.05-14.53.24:912][178]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 256X128)
+[2019.02.05-14.53.24:912][178]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2019.02.05-14.53.24:913][178]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2019.02.05-14.53.24:913][178]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 256X128)
+[2019.02.05-14.53.24:913][178]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2019.02.05-14.53.24:913][178]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2019.02.05-14.53.24:913][178]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 128X64)
+[2019.02.05-14.53.24:913][178]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2019.02.05-14.53.24:913][178]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2019.02.05-14.53.24:913][178]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 128X64)
+[2019.02.05-14.53.24:913][178]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 128X128)
+[2019.02.05-14.53.24:913][178]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 128X128)
+[2019.02.05-14.53.24:913][178]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 128X64)
+[2019.02.05-14.53.24:913][178]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2019.02.05-14.53.24:913][178]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2019.02.05-14.53.24:913][178]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 64X32)
+[2019.02.05-14.53.24:913][178]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 64X64)
+[2019.02.05-14.53.24:913][178]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 64X64)
+[2019.02.05-14.53.24:913][178]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 64X32)
+[2019.02.05-14.53.24:913][178]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 64X64)
+[2019.02.05-14.53.24:913][178]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 64X64)
+[2019.02.05-14.53.25:006][178]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 128X32)
+[2019.02.05-14.53.25:006][178]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X32)
+[2019.02.05-14.53.25:006][178]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2019.02.05-14.53.25:006][178]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 32X32)
+[2019.02.05-14.53.25:006][178]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X32)
+[2019.02.05-14.53.25:006][178]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 256X32)
+[2019.02.05-14.53.25:006][178]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 512X32)
+[2019.02.05-14.53.25:006][178]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 512X32)
+[2019.02.05-14.53.25:006][178]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X256)
+[2019.02.05-14.53.25:058][178]Lightmass on MSI: 12.5 sec total, 255 ms importing, 100 ms setup, 2.04 sec photons, 10.1 sec processing, 0 ms extra exporting [110/110 mappings]. Threads: 1:10 min total, 14.7 sec processing.
+[2019.02.05-14.53.25:136][178]LogStaticLightingSystem: Illumination: 41.4 sec (462 ms encoding lightmaps, 91 ms encoding shadowmaps)
+[2019.02.05-14.53.25:136][178]LogStaticLightingSystem: Lightmap texture memory:  3.2 MB (3.2 MB streaming, 0.0 MB non-streaming), 18 textures
+[2019.02.05-14.53.25:136][178]LogStaticLightingSystem: Shadowmap texture memory: 1.4 MB (1.4 MB streaming, 0.0 MB non-streaming), 9 textures
+[2019.02.05-14.53.25:853][178]DumpUnbuiltLightIteractions
+[2019.02.05-14.53.25:853][178]Lights with unbuilt interactions: 0
+[2019.02.05-14.53.25:853][178]
+[2019.02.05-14.53.25:853][178]Primitives with unbuilt interactions: 0
+[2019.02.05-14.53.26:051][179]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.02.05-14.53.26:051][179]MapCheck: New page: Level0 - 05.02.2019 16:53:26
+[2019.02.05-14.53.26:054][179]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,088ms to complete.
+[2019.02.05-14.53.40:681][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-14.53.40:681][287]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-14.53.40:821][287]LogSlate: Window 'Message Log' being destroyed
+[2019.02.05-14.53.59:714][424]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-14.54.02:321][442]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.05-14.54.02:329][442]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Level0.Level0:PersistentLevel.Level0
+[2019.02.05-14.54.03:026][447]LogSlate: Took 0.000427 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.05-14.54.46:186][359]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Level0212685D043AC7B96A0BD8596DF8A25DE.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level0.umap'
+[2019.02.05-14.54.46:221][359]LogFileHelpers: Saving map 'Level0' took 0.651
+[2019.02.05-14.55.00:426][ 94]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-14.55.00:451][ 94]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-14.55.00:451][ 94]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.05-14.55.00:460][ 94]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2019.02.05-14.55.00:650][ 94]LogPlayLevel: PlayLevel: Blueprint regeneration took 199 ms (1 blueprints)
+[2019.02.05-14.55.00:650][ 94]PIE: New page: PIE session: Level0 (05.02.2019 16:55:00)
+[2019.02.05-14.55.00:650][ 94]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-14.55.00:693][ 94]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043466s)
+[2019.02.05-14.55.00:694][ 94]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-14.55.00:695][ 94]LogPlayLevel: PIE: World Init took: (0.001319s)
+[2019.02.05-14.55.00:695][ 94]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.045081s)
+[2019.02.05-14.55.00:749][ 94]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.05-14.55.00:836][ 94]LogInit: FAudioDevice initialized.
+[2019.02.05-14.55.00:852][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-14.55.00:882][ 94]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-14.55.00:891][ 94]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-15.55.00
+[2019.02.05-14.55.00:892][ 94]LogWorld: Bringing up level for play took: 0.009127
+[2019.02.05-14.55.00:904][ 94]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-14.55.00:906][ 94]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.05-14.55.00:907][ 94]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 0,951
+[2019.02.05-14.55.00:907][ 94]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-14.55.00:955][ 94]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2019.02.05-14.55.06:881][193]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.55.07:122][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-14.55.07:123][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-14.55.07:157][195]LogSlate: Window 'ProjectUnreal Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.05-14.55.07:314][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-14.55.07:315][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-14.55.07:388][196]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.02.05-14.55.30:232][879]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2019.02.05-14.58.37:949][472]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-14.58.37:970][472]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-14.58.37:970][472]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.05-14.58.37:974][472]LogPlayLevel: [PlayLevel] Compiling Level0 before play...
+[2019.02.05-14.58.38:159][472]LogPlayLevel: PlayLevel: Blueprint regeneration took 188 ms (1 blueprints)
+[2019.02.05-14.58.38:159][472]PIE: New page: PIE session: Level0 (05.02.2019 16:58:38)
+[2019.02.05-14.58.38:159][472]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-14.58.38:203][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043309s)
+[2019.02.05-14.58.38:204][472]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-14.58.38:204][472]LogPlayLevel: PIE: World Init took: (0.001489s)
+[2019.02.05-14.58.38:204][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.045286s)
+[2019.02.05-14.58.38:253][472]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.05-14.58.38:335][472]LogInit: FAudioDevice initialized.
+[2019.02.05-14.58.38:352][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-14.58.38:383][472]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-14.58.38:392][472]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-15.58.38
+[2019.02.05-14.58.38:393][472]LogWorld: Bringing up level for play took: 0.009062
+[2019.02.05-14.58.38:405][472]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-14.58.38:407][472]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.05-14.58.38:408][472]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 0,453
+[2019.02.05-14.58.38:408][472]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-14.58.44:412][584]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.58.45:438][599]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.58.46:507][610]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.58.47:621][619]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.58.48:728][628]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.58.49:735][648]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.58.50:744][695]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.58.51:751][743]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.58.52:759][788]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.58.53:775][836]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.58.54:810][875]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.58.55:833][902]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.58.56:867][933]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.58.57:342][944]LogBlueprintUserMessages: [Coins_2] 1
+[2019.02.05-14.58.57:874][955]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.58.58:911][976]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.58.59:929][995]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.59.00:998][ 12]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.59.02:062][ 28]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.59.03:107][ 43]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.59.04:135][ 59]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.59.05:151][ 87]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.59.06:178][115]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.59.07:222][135]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.59.08:232][160]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.59.09:236][206]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.59.10:238][252]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.59.11:255][303]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.59.12:264][352]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.59.13:272][396]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.59.14:299][434]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-14.59.20:804][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-14.59.20:805][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-14.59.20:859][576]LogSlate: Window 'ProjectUnreal Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.05-14.59.20:987][576]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-14.59.20:988][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-14.59.21:176][577]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.02.05-15.00.59:129][ 45]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Level06062A55143AE308801A920AD407A6F92.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level0.umap'
+[2019.02.05-15.00.59:156][ 45]LogFileHelpers: Saving map 'Level0' took 0.604
+[2019.02.05-15.01.00:270][110]BlueprintLog: New page: Compile Level0
+[2019.02.05-15.01.11:558][773]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-15.01.11:576][773]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.01.11:576][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-15.01.11:576][773]PIE: New page: PIE session: Level0 (05.02.2019 17:01:11)
+[2019.02.05-15.01.11:576][773]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-15.01.11:618][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043104s)
+[2019.02.05-15.01.11:619][773]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-15.01.11:619][773]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2019.02.05-15.01.11:620][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.044571s)
+[2019.02.05-15.01.11:664][773]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.05-15.01.11:744][773]LogInit: FAudioDevice initialized.
+[2019.02.05-15.01.11:761][773]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.01.11:795][773]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-15.01.11:804][773]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-16.01.11
+[2019.02.05-15.01.11:805][773]LogWorld: Bringing up level for play took: 0.009188
+[2019.02.05-15.01.11:817][773]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-15.01.11:819][773]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.05-15.01.11:821][773]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 -0,135
+[2019.02.05-15.01.11:821][773]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.01.15:805][873]LogNet: Browse: /Game/Maps/Level0
+[2019.02.05-15.01.15:911][873]LogLoad: LoadMap: /Game/Maps/Level0
+[2019.02.05-15.01.16:048][873]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-15.01.16:087][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040328s)
+[2019.02.05-15.01.16:088][873]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-15.01.16:088][873]LogPlayLevel: PIE: World Init took: (0.000963s)
+[2019.02.05-15.01.16:088][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.041609s)
+[2019.02.05-15.01.16:088][873]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-15.01.16:102][873]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-16.01.16
+[2019.02.05-15.01.16:103][873]LogWorld: Bringing up level for play took: 0.012902
+[2019.02.05-15.01.16:103][873]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-15.01.16:104][873]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.05-15.01.16:104][873]LogLoad: Took 0.193615 seconds to LoadMap(/Game/Maps/UEDPIE_0_Level0)
+[2019.02.05-15.01.21:871][ 34]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-15.01.22:881][ 64]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-15.01.23:125][ 71]LogNet: Browse: /Game/Maps/Level0
+[2019.02.05-15.01.23:159][ 71]LogLoad: LoadMap: /Game/Maps/Level0
+[2019.02.05-15.01.23:200][ 71]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-15.01.23:241][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040851s)
+[2019.02.05-15.01.23:241][ 71]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-15.01.23:241][ 71]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2019.02.05-15.01.23:242][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.041992s)
+[2019.02.05-15.01.23:242][ 71]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-15.01.23:267][ 71]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-16.01.23
+[2019.02.05-15.01.23:268][ 71]LogWorld: Bringing up level for play took: 0.025666
+[2019.02.05-15.01.23:269][ 71]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-15.01.23:271][ 71]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.05-15.01.23:271][ 71]LogLoad: Took 0.112559 seconds to LoadMap(/Game/Maps/UEDPIE_0_Level0)
+[2019.02.05-15.01.24:758][143]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.01.24:759][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.01.24:788][143]LogSlate: Window 'ProjectUnreal Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.05-15.01.24:877][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-15.01.24:877][143]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.01.24:973][144]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.02.05-15.02.16:322][206]BlueprintLog: New page: Compile Level0
+[2019.02.05-15.02.16:332][206]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] Create Widget  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.02.05-15.02.16:503][206]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] [0838,92] Compile of PersistentLevel.Level0 successful, but with 1 Warning(s) [in 181 ms] (/Game/Maps/Level0.Level0:PersistentLevel.Level0)
+[2019.02.05-15.03.21:050][761]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Blueprints/VictoryScreen.VictoryScreen
+[2019.02.05-15.03.21:070][761]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.02.05-15.03.32:793][219]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Victory_BP.Victory_BP
+[2019.02.05-15.03.48:254][540]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Victory.Victory
+[2019.02.05-15.04.10:086][810]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/VictoryBCC156764949EB8861E48E9C8CC93E86.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Blueprints/Victory.uasset'
+[2019.02.05-15.04.19:863][390]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.05-15.04.36:834][394]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 30394
+[2019.02.05-15.04.36:847][395]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.05-15.04.36:936][395]LogSlate: Took 0.000273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.05-15.04.36:937][395]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.05-15.04.36:939][395]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.05-15.04.36:942][395]LogSlate: Took 0.000326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.05-15.04.49:536][146]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/VictoryA6D5BE8742D505FB7EC489986FE5BC8E.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Blueprints/Victory.uasset'
+[2019.02.05-15.04.52:705][302]LogEditorTransaction: Undo Animatable Property Changed
+[2019.02.05-15.04.52:705][302]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.02.05-15.04.54:170][302]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.464 s
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: 
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: 
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: Stack: 
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffb09c78508 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffaf1b4fd42 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffaf1b7ac06 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffaf1b6131c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffaf1bcb337 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffaf1c0f63f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffaf1ba717f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffb0fd80fe8 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffb14e3206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffb14e74c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffaf2426bee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffaf2414b88 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffb14df694c UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffb14e7697c UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffb14e69a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffb5ce6daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffb5ce60de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffb5ce701eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffb5ce5ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffb67af6d41 USER32.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffb67af6713 USER32.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffb5ce71746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ff6ea795546 UE4Editor.exe!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ff6ea7a596c UE4Editor.exe!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ff6ea7a59ea UE4Editor.exe!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ff6ea7b48da UE4Editor.exe!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ff6ea7b659a UE4Editor.exe!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffb65d33034 KERNEL32.DLL!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: [Callstack] 0x00007ffb683e3691 ntdll.dll!UnknownFunction []
+[2019.02.05-15.04.54:171][302]LogOutputDevice: Error: 
+[2019.02.05-15.04.54:177][302]LogStats:                SubmitErrorReport -  0.000 s
+[2019.02.05-15.04.55:849][302]LogStats:                    SendNewReport -  1.673 s
+[2019.02.05-15.04.55:849][302]LogStats:             FDebug::EnsureFailed -  3.144 s
+[2019.02.05-15.04.55:858][302]LogEditorTransaction: Undo Animatable Property Changed
+[2019.02.05-15.04.55:859][302]LogEditorTransaction: Undo Animatable Property Changed
+[2019.02.05-15.05.13:054][327]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.05-15.05.13:054][327]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.05-15.05.13:938][380]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.05-15.05.13:938][380]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.05-15.05.15:303][462]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.05-15.05.15:303][462]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.02.05-15.06.12:310][869]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-15.06.12:335][869]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.06.12:336][869]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.05-15.06.12:343][869]LogPlayLevel: [PlayLevel] Compiling Victory before play...
+[2019.02.05-15.06.12:573][869]LogPlayLevel: PlayLevel: Blueprint regeneration took 237 ms (1 blueprints)
+[2019.02.05-15.06.12:574][869]PIE: New page: PIE session: Level0 (05.02.2019 17:06:12)
+[2019.02.05-15.06.12:574][869]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-15.06.12:617][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043343s)
+[2019.02.05-15.06.12:618][869]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-15.06.12:619][869]LogPlayLevel: PIE: World Init took: (0.001384s)
+[2019.02.05-15.06.12:619][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.044994s)
+[2019.02.05-15.06.12:669][869]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.05-15.06.12:749][869]LogInit: FAudioDevice initialized.
+[2019.02.05-15.06.12:766][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.06.12:799][869]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-15.06.12:808][869]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-16.06.12
+[2019.02.05-15.06.12:809][869]LogWorld: Bringing up level for play took: 0.009231
+[2019.02.05-15.06.12:821][869]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-15.06.12:823][869]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.05-15.06.12:824][869]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 0,869
+[2019.02.05-15.06.12:825][869]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.06.18:730][974]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-15.06.20:723][995]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.06.20:724][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.06.20:753][995]LogSlate: Window 'ProjectUnreal Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.05-15.06.20:885][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-15.06.20:886][995]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.06.20:957][996]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.02.05-15.06.22:392][ 79]LogEditorTransaction: Undo Changed Anchors
+[2019.02.05-15.06.22:587][ 88]LogEditorTransaction: Undo Edit Text
+[2019.02.05-15.06.22:797][ 98]LogEditorTransaction: Undo Add Widget
+[2019.02.05-15.06.22:992][107]LogEditorTransaction: Undo Animatable Property Changed
+[2019.02.05-15.06.23:208][120]LogEditorTransaction: Undo Animatable Property Changed
+[2019.02.05-15.06.24:075][172]LogEditorTransaction: Undo Animatable Property Changed
+[2019.02.05-15.06.25:842][278]LogEditorTransaction: Redo Animatable Property Changed
+[2019.02.05-15.06.25:992][287]LogEditorTransaction: Redo Animatable Property Changed
+[2019.02.05-15.06.26:159][297]LogEditorTransaction: Redo Animatable Property Changed
+[2019.02.05-15.06.26:375][310]LogEditorTransaction: Redo Add Widget
+[2019.02.05-15.06.26:556][319]LogEditorTransaction: Redo Edit Text
+[2019.02.05-15.06.26:771][330]LogEditorTransaction: Redo Changed Anchors
+[2019.02.05-15.06.33:665][740]LogEditorTransaction: Undo Resize Widget
+[2019.02.05-15.06.46:072][470]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.05-15.06.52:286][687]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.05-15.06.54:301][703]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/Victory.Victory
+[2019.02.05-15.07.11:176][689]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.05-15.07.41:673][508]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 10114
+[2019.02.05-15.07.41:684][509]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.02.05-15.07.41:685][509]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.05-15.07.41:690][509]LogSlate: Took 0.000310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.05-15.07.41:690][509]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.02.05-15.07.41:692][509]LogSlate: Took 0.000192 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.02.05-15.08.01:570][696]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.05-15.08.18:078][684]LogEditorTransaction: Undo Resize Widget
+[2019.02.05-15.08.58:163][ 69]BlueprintLog: New page: Compile Victory
+[2019.02.05-15.12.35:784][823]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-15.12.35:806][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.12.35:806][823]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.05-15.12.35:812][823]LogPlayLevel: [PlayLevel] Compiling Victory before play...
+[2019.02.05-15.12.36:041][823]LogPlayLevel: PlayLevel: Blueprint regeneration took 234 ms (1 blueprints)
+[2019.02.05-15.12.36:041][823]PIE: New page: PIE session: Level0 (05.02.2019 17:12:36)
+[2019.02.05-15.12.36:041][823]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-15.12.36:082][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041492s)
+[2019.02.05-15.12.36:083][823]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-15.12.36:084][823]LogPlayLevel: PIE: World Init took: (0.001453s)
+[2019.02.05-15.12.36:084][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.043323s)
+[2019.02.05-15.12.36:138][823]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.05-15.12.36:218][823]LogInit: FAudioDevice initialized.
+[2019.02.05-15.12.36:235][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.12.36:268][823]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-15.12.36:279][823]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-16.12.36
+[2019.02.05-15.12.36:280][823]LogWorld: Bringing up level for play took: 0.010807
+[2019.02.05-15.12.36:292][823]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-15.12.36:294][823]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.05-15.12.36:295][823]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 0,34
+[2019.02.05-15.12.36:296][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.12.56:036][ 74]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.12.56:038][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.12.56:077][ 74]LogSlate: Window 'ProjectUnreal Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.05-15.12.56:188][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-15.12.56:188][ 74]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.12.56:261][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.02.05-15.12.58:207][185]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/VictoryA940E0694559DFC8B50B268C0DCC0BE7.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Blueprints/Victory.uasset'
+[2019.02.05-15.13.22:335][626]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] Create Widget  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.02.05-15.13.22:336][626]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] [1504,75] Compile of PersistentLevel.Level0 successful, but with 1 Warning(s) [in 6 ms] (/Game/Maps/Level0.Level0:PersistentLevel.Level0)
+[2019.02.05-15.13.22:886][626]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Level0_Auto15FADC12F444112D5318630A02364AF7B.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Autosaves/Game/Maps/Level0_Auto1.umap'
+[2019.02.05-15.13.22:891][626]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level0' took 0.624
+[2019.02.05-15.13.22:891][626]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.624
+[2019.02.05-15.13.22:895][626]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.02.05-15.13.22:924][626]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.02.05-15.13.22:924][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.02.05-15.13.23:010][626]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/FirstPersonCharacter_Auto1A1BEB0704D5B501250EAB09B21F0D12E.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto1.uasset'
+[2019.02.05-15.13.23:013][626]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HUD] ([1] browsable assets)...
+[2019.02.05-15.13.23:013][626]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD]
+[2019.02.05-15.13.23:045][626]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HUD_Auto1CEDED3204CA6C1850B64A9A20655246A.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Autosaves/Game/Blueprints/HUD_Auto1.uasset'
+[2019.02.05-15.13.23:048][626]LogFileHelpers: Auto-saving content packages took 0.154
+[2019.02.05-15.13.53:584][454]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Victory2DC64DED403723044C1F2687FCA5EE8A.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Blueprints/Victory.uasset'
+[2019.02.05-15.13.54:363][498]LogSlate: Took 0.000343 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.05-15.13.56:385][614]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] Create Widget  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.02.05-15.13.56:387][614]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] [1538,80] Compile of PersistentLevel.Level0 successful, but with 1 Warning(s) [in 6 ms] (/Game/Maps/Level0.Level0:PersistentLevel.Level0)
+[2019.02.05-15.13.56:931][614]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Level0341F3E4A438F6D8FFA6E51B4C29B4B28.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level0.umap'
+[2019.02.05-15.13.56:959][614]LogFileHelpers: Saving map 'Level0' took 0.635
+[2019.02.05-15.14.16:355][765]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.02.05-15.14.16:912][769]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.02.05-15.14.17:415][770]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.02.05-15.14.17:915][770]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2019.02.05-15.14.40:422][937]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Victory_BP.Victory_BP
+[2019.02.05-15.14.46:105][219]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-15.14.46:126][219]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.14.46:126][219]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.05-15.14.46:128][219]LogPlayLevel: [PlayLevel] Compiling Victory_BP before play...
+[2019.02.05-15.14.46:324][219]LogPlayLevel: PlayLevel: Blueprint regeneration took 197 ms (1 blueprints)
+[2019.02.05-15.14.46:324][219]PIE: New page: PIE session: Level0 (05.02.2019 17:14:46)
+[2019.02.05-15.14.46:324][219]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-15.14.46:367][219]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042925s)
+[2019.02.05-15.14.46:368][219]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-15.14.46:369][219]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2019.02.05-15.14.46:369][219]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.044218s)
+[2019.02.05-15.14.46:426][219]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.05-15.14.46:505][219]LogInit: FAudioDevice initialized.
+[2019.02.05-15.14.46:523][219]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.14.46:554][219]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-15.14.46:562][219]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-16.14.46
+[2019.02.05-15.14.46:563][219]LogWorld: Bringing up level for play took: 0.008038
+[2019.02.05-15.14.46:575][219]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-15.14.46:577][219]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.05-15.14.46:578][219]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 0,623
+[2019.02.05-15.14.46:579][219]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.14.52:359][310]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-15.14.53:402][318]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-15.14.54:449][327]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-15.14.55:449][342]LogBlueprintUserMessages: [FirstPersonGameMode_C_0] TIME IS UP: GAME OVER
+[2019.02.05-15.14.55:641][345]LogNet: Browse: /Game/Maps/Level0
+[2019.02.05-15.14.55:703][345]LogLoad: LoadMap: /Game/Maps/Level0
+[2019.02.05-15.14.55:791][345]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-15.14.55:875][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.084482s)
+[2019.02.05-15.14.55:875][345]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-15.14.55:876][345]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2019.02.05-15.14.55:876][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.086121s)
+[2019.02.05-15.14.55:876][345]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-15.14.55:916][345]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-16.14.55
+[2019.02.05-15.14.55:918][345]LogWorld: Bringing up level for play took: 0.039980
+[2019.02.05-15.14.55:919][345]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-15.14.55:922][345]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.05-15.14.55:922][345]LogLoad: Took 0.219572 seconds to LoadMap(/Game/Maps/UEDPIE_0_Level0)
+[2019.02.05-15.14.56:120][353]LogNet: Browse: /Game/Maps/Level0
+[2019.02.05-15.14.56:121][353]LogLoad: LoadMap: /Game/Maps/Level0
+[2019.02.05-15.14.56:205][353]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-15.14.56:287][353]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083245s)
+[2019.02.05-15.14.56:288][353]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-15.14.56:288][353]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2019.02.05-15.14.56:288][353]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.084709s)
+[2019.02.05-15.14.56:289][353]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-15.14.56:303][353]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-16.14.56
+[2019.02.05-15.14.56:305][353]LogWorld: Bringing up level for play took: 0.014646
+[2019.02.05-15.14.56:306][353]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-15.14.56:308][353]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.05-15.14.56:308][353]LogLoad: Took 0.187714 seconds to LoadMap(/Game/Maps/UEDPIE_0_Level0)
+[2019.02.05-15.14.57:772][409]LogNet: Browse: /Game/Maps/Level0
+[2019.02.05-15.14.57:834][409]LogLoad: LoadMap: /Game/Maps/Level0
+[2019.02.05-15.14.57:903][409]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-15.14.57:960][409]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056927s)
+[2019.02.05-15.14.57:961][409]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-15.14.57:961][409]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2019.02.05-15.14.57:961][409]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.058137s)
+[2019.02.05-15.14.57:961][409]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-15.14.57:975][409]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-16.14.57
+[2019.02.05-15.14.57:976][409]LogWorld: Bringing up level for play took: 0.014895
+[2019.02.05-15.14.57:977][409]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-15.14.57:979][409]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.05-15.14.57:979][409]LogLoad: Took 0.145684 seconds to LoadMap(/Game/Maps/UEDPIE_0_Level0)
+[2019.02.05-15.14.59:853][471]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.14.59:853][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.14.59:880][471]LogSlate: Window 'ProjectUnreal Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.05-15.14.59:973][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-15.14.59:973][471]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.15.00:076][472]LogPlayLevel: Display: Destroying online subsystem :Context_25
