@@ -1536,3 +1536,314 @@ Script Stack (0 frames):
 [2019.02.05-15.14.59:973][471]LogPlayLevel: Display: Shutting down PIE online subsystems
 [2019.02.05-15.14.59:973][471]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
 [2019.02.05-15.15.00:076][472]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.02.05-15.18.19:304][588]LogMetaData: Removing '/Game/Blueprints/VictoryHUD.VictoryHUD_C' ref from Metadata '/Game/Blueprints/Victory.PackageMetaData'
+[2019.02.05-15.18.19:304][588]LogMetaData: Removing '/Game/Blueprints/VictoryHUD.VictoryHUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Victory.PackageMetaData'
+[2019.02.05-15.18.19:304][588]LogMetaData: Removing '/Game/Blueprints/VictoryHUD.VictoryHUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Victory.PackageMetaData'
+[2019.02.05-15.18.19:304][588]LogMetaData: Removing '/Game/Blueprints/VictoryHUD.VictoryHUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/Victory.PackageMetaData'
+[2019.02.05-15.18.19:305][588]LogMetaData: Removing '/Game/Blueprints/VictoryHUD.VictoryHUD:GetText_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Victory.PackageMetaData'
+[2019.02.05-15.18.19:305][588]LogMetaData: Removing '/Game/Blueprints/VictoryHUD.VictoryHUD:GetText_0.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/Victory.PackageMetaData'
+[2019.02.05-15.18.19:305][588]LogMetaData: Removing '/Game/Blueprints/VictoryHUD.VictoryHUD:GetColorAndOpacity_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Victory.PackageMetaData'
+[2019.02.05-15.18.19:305][588]LogMetaData: Removing '/Game/Blueprints/VictoryHUD.VictoryHUD:GetColorAndOpacity_0.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/Victory.PackageMetaData'
+[2019.02.05-15.18.19:305][588]LogMetaData: Removing '/Game/Blueprints/VictoryHUD.VictoryHUD:GetText_1.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Victory.PackageMetaData'
+[2019.02.05-15.18.19:305][588]LogMetaData: Removing '/Game/Blueprints/VictoryHUD.VictoryHUD:GetText_1.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/Victory.PackageMetaData'
+[2019.02.05-15.18.19:305][588]LogMetaData: Removing '/Game/Blueprints/VictoryHUD.SKEL_VictoryHUD_C' ref from Metadata '/Game/Blueprints/Victory.PackageMetaData'
+[2019.02.05-15.18.19:409][588]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/VictoryHUD1697779E4821B63A1B096E98D34F6D5C.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Blueprints/VictoryHUD.uasset'
+[2019.02.05-15.18.19:801][588]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Victory_BP1E6DDB104D50300B7CCB48A7394FF9D5.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Blueprints/Victory_BP.uasset'
+[2019.02.05-15.18.44:908][727]LogMetaData: Removing '/Game/Blueprints/Victory.Victory_C' ref from Metadata '/Game/Blueprints/VictoryHUD.PackageMetaData'
+[2019.02.05-15.18.44:908][727]LogMetaData: Removing '/Game/Blueprints/Victory.SKEL_Victory_C' ref from Metadata '/Game/Blueprints/VictoryHUD.PackageMetaData'
+[2019.02.05-15.18.44:908][727]LogMetaData: Removing '/Game/Blueprints/Victory.Victory:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/VictoryHUD.PackageMetaData'
+[2019.02.05-15.18.44:908][727]LogMetaData: Removing '/Game/Blueprints/Victory.Victory:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/VictoryHUD.PackageMetaData'
+[2019.02.05-15.18.44:908][727]LogMetaData: Removing '/Game/Blueprints/Victory.Victory:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/VictoryHUD.PackageMetaData'
+[2019.02.05-15.18.44:908][727]LogMetaData: Removing '/Game/Blueprints/Victory.Victory:GetText_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/VictoryHUD.PackageMetaData'
+[2019.02.05-15.18.44:908][727]LogMetaData: Removing '/Game/Blueprints/Victory.Victory:GetText_0.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/VictoryHUD.PackageMetaData'
+[2019.02.05-15.18.44:908][727]LogMetaData: Removing '/Game/Blueprints/Victory.Victory:GetColorAndOpacity_0.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/VictoryHUD.PackageMetaData'
+[2019.02.05-15.18.44:908][727]LogMetaData: Removing '/Game/Blueprints/Victory.Victory:GetColorAndOpacity_0.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/VictoryHUD.PackageMetaData'
+[2019.02.05-15.18.44:908][727]LogMetaData: Removing '/Game/Blueprints/Victory.Victory:GetText_1.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/VictoryHUD.PackageMetaData'
+[2019.02.05-15.18.44:908][727]LogMetaData: Removing '/Game/Blueprints/Victory.Victory:GetText_1.K2Node_FunctionResult_0' ref from Metadata '/Game/Blueprints/VictoryHUD.PackageMetaData'
+[2019.02.05-15.18.44:984][727]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/VictoryA1EE97A343714F3BD4AC34A72A25510E.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Blueprints/Victory.uasset'
+[2019.02.05-15.18.45:324][727]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Victory_BP9B32DF5A4538ECB27C9D459398B4E41E.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Blueprints/Victory_BP.uasset'
+[2019.02.05-15.19.15:518][947]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/GameOver.GameOver
+[2019.02.05-15.19.54:542][523]LogSlate: Window 'GameOver*' being destroyed
+[2019.02.05-15.20.10:666][395]LogSlate: Window 'Save Asset As' being destroyed
+[2019.02.05-15.20.13:731][460]LogSlate: Window 'Save Asset As' being destroyed
+[2019.02.05-15.20.19:153][556]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Blueprints/GameOverScreen.GameOverScreen
+[2019.02.05-15.20.38:464][952]LogSlate: Window 'Save Asset As' being destroyed
+[2019.02.05-15.20.43:478][952]LogSlate: Window 'Message' being destroyed
+[2019.02.05-15.20.47:418][ 72]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Blueprints/GameOverScreen.GameOverScreen
+[2019.02.05-15.21.30:844][503]LogSlate: Window 'GameOver*' being destroyed
+[2019.02.05-15.21.33:777][679]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (50.281 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.02.05-15.22.02:116][810]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonGameMode.FirstPersonGameMode
+[2019.02.05-15.24.20:174][143]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] Create Widget  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.02.05-15.24.20:176][143]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] [2162,59] Compile of PersistentLevel.Level0 successful, but with 1 Warning(s) [in 8 ms] (/Game/Maps/Level0.Level0:PersistentLevel.Level0)
+[2019.02.05-15.24.20:760][143]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Level0_Auto2D98436D74150B6D459EF67B2D53D5CFB.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Autosaves/Game/Maps/Level0_Auto2.umap'
+[2019.02.05-15.24.20:773][143]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level0' took 0.691
+[2019.02.05-15.24.20:773][143]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.691
+[2019.02.05-15.24.20:777][143]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.02.05-15.24.20:819][143]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.02.05-15.24.20:819][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.02.05-15.24.20:928][143]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/FirstPersonCharacter_Auto266BBFFF14F7873C3DC6E089C0AA53F7B.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto2.uasset'
+[2019.02.05-15.24.20:932][143]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HUD] ([1] browsable assets)...
+[2019.02.05-15.24.20:933][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD]
+[2019.02.05-15.24.20:972][143]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HUD_Auto216D0AF4B486FA514E72E31B12AA2AD32.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Autosaves/Game/Blueprints/HUD_Auto2.uasset'
+[2019.02.05-15.24.20:978][143]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonGameMode] ([1] browsable assets)...
+[2019.02.05-15.24.20:978][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonGameMode]
+[2019.02.05-15.24.21:005][143]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/FirstPersonGameMode_Auto205B693E7493A84EE7942D2AD6BBB8965.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonGameMode_Auto2.uasset'
+[2019.02.05-15.24.21:009][143]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameOver] ([1] browsable assets)...
+[2019.02.05-15.24.21:009][143]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameOver]
+[2019.02.05-15.24.21:017][143]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/GameOver_Auto2C6D34526439E744CF3A13CBFCE1A0266.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Autosaves/Game/Blueprints/GameOver_Auto2.uasset'
+[2019.02.05-15.24.21:020][143]LogFileHelpers: Auto-saving content packages took 0.243
+[2019.02.05-15.24.48:401][303]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-15.24.48:429][303]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.24.48:429][303]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.05-15.24.48:461][303]LogPlayLevel: [PlayLevel] Compiling FirstPersonCharacter before play...
+[2019.02.05-15.24.48:706][303]LogPlayLevel: [PlayLevel] Compiling FirstPersonGameMode before play...
+[2019.02.05-15.24.48:871][303]LogPlayLevel: [PlayLevel] Compiling Victory_BP before play...
+[2019.02.05-15.24.49:044][303]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2019.02.05-15.24.49:225][303]LogPlayLevel: [PlayLevel] Compiling GameOver before play...
+[2019.02.05-15.24.49:462][303]LogPlayLevel: PlayLevel: Blueprint regeneration took 1032 ms (5 blueprints)
+[2019.02.05-15.24.49:462][303]PIE: New page: PIE session: Level0 (05.02.2019 17:24:49)
+[2019.02.05-15.24.49:462][303]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-15.24.49:510][303]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047834s)
+[2019.02.05-15.24.49:511][303]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-15.24.49:512][303]LogPlayLevel: PIE: World Init took: (0.001189s)
+[2019.02.05-15.24.49:512][303]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.049304s)
+[2019.02.05-15.24.49:571][303]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.05-15.24.49:672][303]LogInit: FAudioDevice initialized.
+[2019.02.05-15.24.49:687][303]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.24.49:721][303]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-15.24.49:731][303]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-16.24.49
+[2019.02.05-15.24.49:732][303]LogWorld: Bringing up level for play took: 0.009873
+[2019.02.05-15.24.49:744][303]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-15.24.49:745][303]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.05-15.24.49:747][303]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 1,792
+[2019.02.05-15.24.49:747][303]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.25.11:095][678]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.25.11:096][678]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.25.11:143][678]LogSlate: Window 'ProjectUnreal Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.05-15.25.11:237][678]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-15.25.11:238][678]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.25.11:424][679]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.02.05-15.25.12:224][720]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-15.25.12:305][720]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.25.12:305][720]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-15.25.12:306][720]PIE: New page: PIE session: Level0 (05.02.2019 17:25:12)
+[2019.02.05-15.25.12:306][720]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-15.25.12:421][720]LogPlayLevel: PIE: StaticDuplicateObject took: (0.115180s)
+[2019.02.05-15.25.12:422][720]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-15.25.12:423][720]LogPlayLevel: PIE: World Init took: (0.001270s)
+[2019.02.05-15.25.12:423][720]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.116893s)
+[2019.02.05-15.25.12:483][720]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.05-15.25.12:562][720]LogInit: FAudioDevice initialized.
+[2019.02.05-15.25.12:576][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.25.12:610][720]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-15.25.12:618][720]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-16.25.12
+[2019.02.05-15.25.12:619][720]LogWorld: Bringing up level for play took: 0.008349
+[2019.02.05-15.25.12:630][720]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-15.25.12:631][720]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.05-15.25.12:634][720]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 0,679
+[2019.02.05-15.25.12:634][720]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.25.14:432][773]LogRenderer: Reallocating scene render targets to support 1920x1016 Format 10 NumSamples 1 (Frame:55).
+[2019.02.05-15.25.23:703][870]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.25.23:704][870]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.25.23:751][870]LogSlate: Window 'ProjectUnreal Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.05-15.25.23:906][870]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-15.25.23:906][870]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.25.24:063][871]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.02.05-15.25.59:948][  6]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.05-15.26.24:522][470]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.05-15.26.54:348][255]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-15.26.54:375][255]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.26.54:375][255]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.05-15.26.54:379][255]LogPlayLevel: [PlayLevel] Compiling GameOver before play...
+[2019.02.05-15.26.54:615][255]LogPlayLevel: PlayLevel: Blueprint regeneration took 239 ms (1 blueprints)
+[2019.02.05-15.26.54:615][255]PIE: New page: PIE session: Level0 (05.02.2019 17:26:54)
+[2019.02.05-15.26.54:615][255]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-15.26.54:658][255]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043337s)
+[2019.02.05-15.26.54:659][255]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-15.26.54:659][255]LogPlayLevel: PIE: World Init took: (0.001376s)
+[2019.02.05-15.26.54:659][255]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.045055s)
+[2019.02.05-15.26.54:712][255]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.05-15.26.54:791][255]LogInit: FAudioDevice initialized.
+[2019.02.05-15.26.54:808][255]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.26.54:844][255]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-15.26.54:853][255]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-16.26.54
+[2019.02.05-15.26.54:855][255]LogWorld: Bringing up level for play took: 0.009511
+[2019.02.05-15.26.54:867][255]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-15.26.54:868][255]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.05-15.26.54:871][255]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 0,915
+[2019.02.05-15.26.54:871][255]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.27.15:856][608]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.27.15:857][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.27.15:886][608]LogSlate: Window 'ProjectUnreal Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.05-15.27.15:997][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-15.27.15:997][608]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.27.16:069][609]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2019.02.05-15.33.01:177][461]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/FirstPersonGameMode8F58B70841A5A05F0156A5B831962666.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/FirstPersonBP/Blueprints/FirstPersonGameMode.uasset'
+[2019.02.05-15.33.03:435][594]BlueprintLog: New page: Compile Level0
+[2019.02.05-15.33.03:445][594]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] Create Widget  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.02.05-15.33.03:640][594]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] [2686,05] Compile of PersistentLevel.Level0 successful, but with 1 Warning(s) [in 204 ms] (/Game/Maps/Level0.Level0:PersistentLevel.Level0)
+[2019.02.05-15.33.07:635][833]BlueprintLog: New page: Compile Level0
+[2019.02.05-15.33.07:645][833]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] Create Widget  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.02.05-15.33.07:836][833]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] [2690,25] Compile of PersistentLevel.Level0 successful, but with 1 Warning(s) [in 200 ms] (/Game/Maps/Level0.Level0:PersistentLevel.Level0)
+[2019.02.05-15.33.45:274][ 64]BlueprintLog: New page: Compile Level0
+[2019.02.05-15.33.45:284][ 64]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] Create Widget  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.02.05-15.33.45:505][ 64]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] [2727,92] Compile of PersistentLevel.Level0 successful, but with 1 Warning(s) [in 230 ms] (/Game/Maps/Level0.Level0:PersistentLevel.Level0)
+[2019.02.05-15.34.42:862][492]BlueprintLog: New page: Compile Level0
+[2019.02.05-15.34.42:872][492]LogBlueprint: Error: [Compiler PersistentLevel.Level0] The type of  Object  is undetermined.  Connect something to  Cast To HUD  to imply a specific type.
+[2019.02.05-15.34.42:872][492]LogBlueprint: Error: [Compiler PersistentLevel.Level0] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2019.02.05-15.34.43:085][492]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] [2785,50] Compile of PersistentLevel.Level0 failed. 2 Fatal Issue(s) 0 Warning(s) [in 223 ms] (/Game/Maps/Level0.Level0:PersistentLevel.Level0)
+[2019.02.05-15.34.58:417][403]BlueprintLog: New page: Compile Level0
+[2019.02.05-15.34.58:427][403]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] 'HUD' does not inherit from 'Player Controller' ( Cast To HUD  would always fail).
+[2019.02.05-15.34.58:615][403]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] [2801,03] Compile of PersistentLevel.Level0 successful, but with 1 Warning(s) [in 198 ms] (/Game/Maps/Level0.Level0:PersistentLevel.Level0)
+[2019.02.05-15.35.22:804][842]BlueprintLog: New page: Compile Level0
+[2019.02.05-15.35.22:813][842]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] Cast To HUD  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2019.02.05-15.35.23:005][842]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] [2825,42] Compile of PersistentLevel.Level0 successful, but with 1 Warning(s) [in 201 ms] (/Game/Maps/Level0.Level0:PersistentLevel.Level0)
+[2019.02.05-15.35.45:234][132]BlueprintLog: New page: Compile Level0
+[2019.02.05-15.35.45:244][132]LogBlueprint: Error: [Compiler PersistentLevel.Level0] The type of  Object  is undetermined.  Connect something to  Cast To HUD  to imply a specific type.
+[2019.02.05-15.35.45:244][132]LogBlueprint: Error: [Compiler PersistentLevel.Level0] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2019.02.05-15.35.45:434][132]LogBlueprint: Warning: [Compiler PersistentLevel.Level0] [2847,85] Compile of PersistentLevel.Level0 failed. 2 Fatal Issue(s) 0 Warning(s) [in 200 ms] (/Game/Maps/Level0.Level0:PersistentLevel.Level0)
+[2019.02.05-15.36.22:756][962]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Level0_Auto3D93E5FF4470A9E04E23095BCAEF8B9EE.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Autosaves/Game/Maps/Level0_Auto3.umap'
+[2019.02.05-15.36.22:761][962]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level0' took 0.586
+[2019.02.05-15.36.22:761][962]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.586
+[2019.02.05-15.36.22:765][962]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter] ([1] browsable assets)...
+[2019.02.05-15.36.22:806][962]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter]
+[2019.02.05-15.36.22:806][962]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPersonBP/Blueprints/FirstPersonCharacter]
+[2019.02.05-15.36.22:896][962]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/FirstPersonCharacter_Auto38FDD0B6646D41BE2CFE9E4956E2EDDD5.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Autosaves/Game/FirstPersonBP/Blueprints/FirstPersonCharacter_Auto3.uasset'
+[2019.02.05-15.36.22:900][962]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HUD] ([1] browsable assets)...
+[2019.02.05-15.36.22:900][962]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD]
+[2019.02.05-15.36.22:932][962]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HUD_Auto3E022B5934C9D19C11362F4B62C9592CD.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Autosaves/Game/Blueprints/HUD_Auto3.uasset'
+[2019.02.05-15.36.22:935][962]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/GameOver] ([1] browsable assets)...
+[2019.02.05-15.36.22:935][962]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/GameOver]
+[2019.02.05-15.36.22:943][962]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/GameOver_Auto331E05FB34540BCDBA5F66FA16C911469.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Autosaves/Game/Blueprints/GameOver_Auto3.uasset'
+[2019.02.05-15.36.22:946][962]LogFileHelpers: Auto-saving content packages took 0.181
+[2019.02.05-15.46.23:349][708]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level0' took 0.067
+[2019.02.05-15.46.23:351][708]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HUD] ([1] browsable assets)...
+[2019.02.05-15.46.23:351][708]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUD]
+[2019.02.05-15.46.23:388][708]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HUD_Auto4F9F62BC94FDB15FC289508B64D0C820D.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Autosaves/Game/Blueprints/HUD_Auto4.uasset'
+[2019.02.05-15.46.23:392][708]LogFileHelpers: Auto-saving content packages took 0.041
+[2019.02.05-15.49.54:989][626]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pulc\Desktop\HTW\Game Engines\Unreal\Tutoriál\HTW-GameEngines-ProjektUnreal\ProjectUnreal\Content\Blueprints\CoinsIcon.png)
+[2019.02.05-15.49.55:009][626]LogTexture: Display: Building textures: CoinsIcon (BGRA8, 139X138)
+[2019.02.05-15.50.16:290][714]LogSlate: Window 'Delete Assets' being destroyed
+[2019.02.05-15.50.20:700][737]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\pulc\Desktop\HTW\Game Engines\Unreal\Tutoriál\HTW-GameEngines-ProjektUnreal\ProjectUnreal\Content\Blueprints\CoinsIcon.png)
+[2019.02.05-15.50.20:709][737]LogTexture: Display: Building textures: CoinsIcon (BGRA8, 408X138)
+[2019.02.05-15.52.07:831][550]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.05-15.52.53:529][874]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HUDDFC844E845F196E2ED473F9392167158.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Blueprints/HUD.uasset'
+[2019.02.05-15.54.20:806][209]LogSlate: Window 'HUD*' being destroyed
+[2019.02.05-15.54.39:377][953]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Coin.Coin
+[2019.02.05-15.56.30:188][353]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HUD447CB5FC480FBB9B257CB4B9ED12276D.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Blueprints/HUD.uasset'
+[2019.02.05-15.56.40:695][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-15.56.51:831][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.02.05-15.56.52:499][354]LogEditorViewport: Clicking on Actor (LMB): Coin_C (Coins)
+[2019.02.05-15.56.53:905][434]Cmd: DUPLICATE
+[2019.02.05-15.56.53:905][434]Cmd: ACTOR DUPLICATE
+[2019.02.05-15.56.56:980][609]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-15.56.57:062][614]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-15.56.57:100][614]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.56.57:100][614]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.05-15.56.57:141][614]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2019.02.05-15.56.57:488][614]LogPlayLevel: PlayLevel: Blueprint regeneration took 387 ms (1 blueprints)
+[2019.02.05-15.56.57:488][614]PIE: New page: PIE session: Level0 (05.02.2019 17:56:57)
+[2019.02.05-15.56.57:489][614]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-15.56.57:554][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065805s)
+[2019.02.05-15.56.57:556][614]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-15.56.57:556][614]LogPlayLevel: PIE: World Init took: (0.001616s)
+[2019.02.05-15.56.57:556][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.067851s)
+[2019.02.05-15.56.57:635][614]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.05-15.56.57:725][614]LogInit: FAudioDevice initialized.
+[2019.02.05-15.56.57:757][614]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-15.56.57:765][614]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-16.56.57
+[2019.02.05-15.56.57:766][614]LogWorld: Bringing up level for play took: 0.008276
+[2019.02.05-15.56.57:779][614]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-15.56.57:781][614]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.05-15.56.57:781][614]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 -0,174
+[2019.02.05-15.56.57:782][614]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.57.05:401][734]LogNet: Browse: /Game/Maps/Level0
+[2019.02.05-15.57.05:472][734]LogLoad: LoadMap: /Game/Maps/Level0
+[2019.02.05-15.57.05:544][734]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-15.57.05:593][734]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048933s)
+[2019.02.05-15.57.05:594][734]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-15.57.05:594][734]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2019.02.05-15.57.05:594][734]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.050390s)
+[2019.02.05-15.57.05:594][734]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-15.57.05:633][734]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-16.57.05
+[2019.02.05-15.57.05:634][734]LogWorld: Bringing up level for play took: 0.038626
+[2019.02.05-15.57.05:635][734]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-15.57.05:638][734]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.05-15.57.05:638][734]LogLoad: Took 0.166658 seconds to LoadMap(/Game/Maps/UEDPIE_0_Level0)
+[2019.02.05-15.57.09:207][826]LogBlueprintUserMessages: [Coins3] 1
+[2019.02.05-15.57.14:276][918]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.57.14:277][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.57.14:375][918]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-15.57.14:375][918]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.57.14:484][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.57.14:602][919]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2019.02.05-15.57.26:954][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-15.57.27:079][991]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-15.57.27:144][991]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.57.27:144][991]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.05-15.57.27:144][991]PIE: New page: PIE session: Level0 (05.02.2019 17:57:27)
+[2019.02.05-15.57.27:144][991]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-15.57.27:214][991]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070761s)
+[2019.02.05-15.57.27:215][991]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-15.57.27:216][991]LogPlayLevel: PIE: World Init took: (0.001847s)
+[2019.02.05-15.57.27:216][991]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.073105s)
+[2019.02.05-15.57.27:300][991]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.05-15.57.27:436][991]LogInit: FAudioDevice initialized.
+[2019.02.05-15.57.27:476][991]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-15.57.27:489][991]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-16.57.27
+[2019.02.05-15.57.27:490][991]LogWorld: Bringing up level for play took: 0.012100
+[2019.02.05-15.57.27:504][991]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-15.57.27:506][991]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.05-15.57.27:506][991]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 -0,45
+[2019.02.05-15.57.27:507][991]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.57.34:895][113]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.57.34:897][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.57.35:040][113]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-15.57.35:041][113]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.57.35:144][113]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.57.35:284][114]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2019.02.05-15.57.39:214][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.05-15.57.58:581][282]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/GameOver0817F9854DBE98274126948827C62597.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Blueprints/GameOver.uasset'
+[2019.02.05-15.57.59:114][313]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.05-15.57.59:139][313]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.57.59:140][313]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.05-15.57.59:148][313]LogPlayLevel: [PlayLevel] Compiling GameOver before play...
+[2019.02.05-15.57.59:428][313]LogPlayLevel: PlayLevel: Blueprint regeneration took 288 ms (1 blueprints)
+[2019.02.05-15.57.59:428][313]PIE: New page: PIE session: Level0 (05.02.2019 17:57:59)
+[2019.02.05-15.57.59:428][313]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-15.57.59:479][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050842s)
+[2019.02.05-15.57.59:480][313]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-15.57.59:481][313]LogPlayLevel: PIE: World Init took: (0.001793s)
+[2019.02.05-15.57.59:481][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.052929s)
+[2019.02.05-15.57.59:543][313]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.05-15.57.59:632][313]LogInit: FAudioDevice initialized.
+[2019.02.05-15.57.59:653][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.57.59:689][313]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-15.57.59:701][313]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-16.57.59
+[2019.02.05-15.57.59:702][313]LogWorld: Bringing up level for play took: 0.012022
+[2019.02.05-15.57.59:713][313]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-15.57.59:717][313]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.05-15.57.59:721][313]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 -0,234
+[2019.02.05-15.57.59:722][313]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.58.04:599][405]LogBlueprintUserMessages: [Coins3] 1
+[2019.02.05-15.58.09:949][485]LogBlueprintUserMessages: [FirstPersonCharacter_C_1] 0.75
+[2019.02.05-15.58.11:300][504]LogNet: Browse: /Game/Maps/Level0
+[2019.02.05-15.58.11:370][504]LogLoad: LoadMap: /Game/Maps/Level0
+[2019.02.05-15.58.11:451][504]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.05-15.58.11:527][504]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076552s)
+[2019.02.05-15.58.11:529][504]LogAIModule: Creating AISystem for world Level0
+[2019.02.05-15.58.11:529][504]LogPlayLevel: PIE: World Init took: (0.001765s)
+[2019.02.05-15.58.11:529][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.078848s)
+[2019.02.05-15.58.11:530][504]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.05-15.58.11:573][504]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.05-16.58.11
+[2019.02.05-15.58.11:575][504]LogWorld: Bringing up level for play took: 0.043914
+[2019.02.05-15.58.11:576][504]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.05-15.58.11:579][504]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.05-15.58.11:579][504]LogLoad: Took 0.209712 seconds to LoadMap(/Game/Maps/UEDPIE_0_Level0)
+[2019.02.05-15.58.11:730][511]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.58.11:731][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.05-15.58.11:748][511]LogSlate: Window 'ProjectUnreal Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.05-15.58.11:792][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.05-15.58.11:792][511]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.05-15.58.11:860][512]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.02.05-15.58.20:144][  4]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/GameOverE1A2B6A04D396D94234B81807369FB25.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Blueprints/GameOver.uasset'
