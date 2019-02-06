@@ -2750,3 +2750,738 @@ Script Stack (0 frames):
 [2019.02.06-11.26.52:501][913]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Level0_BuiltDataDA5125B843FA1A5C15AB7CB1CBBC9123.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level0_BuiltData.uasset'
 [2019.02.06-11.26.52:520][913]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/DickButt__MatFE68E13547C0C7AE02FE27B370B214DB.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Textures/DickButt__Mat.uasset'
 [2019.02.06-11.26.52:530][913]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/yee_Cue7148DA6848312528733CDF8340B4D683.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Audio/yee_Cue.uasset'
+[2019.02.06-11.28.02:357][931]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.02.06-11.28.09:609][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.02.06-11.28.13:931][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.28.14:109][580]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/M_Floor.M_Floor
+[2019.02.06-11.28.14:114][580]LogMaterial: Display: Missing cached shader map for material M_Floor, compiling. 
+[2019.02.06-11.28.14:249][580]LogMaterial: Display: Missing cached shader map for material M_Floor, compiling. 
+[2019.02.06-11.28.14:273][580]LogMaterial: Display: Missing cached shader map for material M_Floor, compiling. 
+[2019.02.06-11.28.14:301][580]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.06-11.28.14:301][580]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.06-11.28.14:301][580]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.06-11.28.14:301][580]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.06-11.28.14:330][580]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2019.02.06-11.28.14:923][605]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.06-11.28.14:972][608]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.06-11.28.14:987][609]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.06-11.28.14:987][609]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.06-11.28.15:212][621]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.06-11.28.15:212][621]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.06-11.28.15:272][624]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.06-11.28.15:272][624]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.06-11.28.15:463][635]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.06-11.28.15:662][647]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.06-11.28.15:808][656]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.06-11.28.15:926][663]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.06-11.28.16:059][671]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.06-11.28.16:160][677]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.06-11.28.16:311][686]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.06-11.28.16:527][699]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.06-11.28.16:576][702]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.06-11.28.16:678][708]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.06-11.28.16:926][723]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.06-11.28.16:943][724]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.06-11.28.17:178][738]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.06-11.28.17:293][745]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.06-11.28.17:310][746]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.06-11.28.17:577][762]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.06-11.28.17:679][768]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.06-11.28.17:845][778]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.06-11.28.18:009][788]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.06-11.28.18:159][797]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.06-11.28.18:297][804]MaterialEditorStats: Base pass shader: 108 instructions
+[2019.02.06-11.28.18:297][804]MaterialEditorStats: Base pass shader with Surface Lightmap: 126 instructions
+[2019.02.06-11.28.18:297][804]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2019.02.06-11.28.18:297][804]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.06-11.28.18:297][804]MaterialEditorStats: Texture samplers: 4/16
+[2019.02.06-11.28.18:297][804]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.02.06-11.28.18:297][804]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.06-11.28.38:007][979]LogMaterial: Display: Missing cached shader map for material M_Floor, compiling. 
+[2019.02.06-11.28.38:044][980]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.06-11.28.38:044][980]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.06-11.28.38:044][980]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.06-11.28.38:044][980]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.06-11.28.38:291][995]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.06-11.28.38:341][998]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.06-11.28.38:358][999]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.06-11.28.38:383][  0]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.06-11.28.38:545][ 10]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.06-11.28.38:595][ 13]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.06-11.28.38:595][ 13]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.06-11.28.38:611][ 14]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.06-11.28.38:800][ 25]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.06-11.28.38:965][ 35]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.06-11.28.39:162][ 45]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.06-11.28.39:228][ 50]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.06-11.28.39:331][ 56]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.06-11.28.39:508][ 66]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.06-11.28.39:594][ 71]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.06-11.28.39:799][ 83]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.06-11.28.39:867][ 87]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.06-11.28.39:932][ 91]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.06-11.28.40:168][105]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.06-11.28.40:217][108]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.06-11.28.40:362][116]LogMaterial: Display: Missing cached shader map for material M_Floor, compiling. 
+[2019.02.06-11.28.40:416][117]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.06-11.28.40:482][119]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.06-11.28.40:559][124]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.06-11.28.40:781][137]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.06-11.28.40:794][138]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.06-11.28.40:828][140]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.06-11.28.40:893][144]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.06-11.28.41:055][153]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.06-11.28.41:071][154]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.06-11.28.41:089][155]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.06-11.28.41:153][159]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.06-11.28.41:255][165]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.06-11.28.41:319][169]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.06-11.28.41:629][187]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.06-11.28.41:661][189]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.06-11.28.41:780][196]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.06-11.28.41:895][203]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.06-11.28.42:029][211]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.06-11.28.42:248][224]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.06-11.28.42:348][230]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.06-11.28.42:384][232]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.06-11.28.42:468][237]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.06-11.28.42:737][253]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.06-11.28.42:835][259]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.06-11.28.42:984][268]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.06-11.28.43:053][272]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.06-11.28.43:202][281]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.06-11.28.43:351][290]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.06-11.28.43:541][300]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.06-11.28.43:624][305]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.06-11.28.44:071][331]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.02.06-11.28.44:071][331]MaterialEditorStats: Base pass shader with Surface Lightmap: 127 instructions
+[2019.02.06-11.28.44:071][331]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.02.06-11.28.44:071][331]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.06-11.28.44:071][331]MaterialEditorStats: Texture samplers: 4/16
+[2019.02.06-11.28.44:071][331]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.02.06-11.28.44:071][331]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.06-11.28.49:844][677]LogMaterial: Display: Missing cached shader map for material M_Floor, compiling. 
+[2019.02.06-11.28.49:866][677]LogMaterial: Display: Missing cached shader map for material M_Floor, compiling. 
+[2019.02.06-11.28.49:893][678]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.06-11.28.49:893][678]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.06-11.28.49:893][678]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.06-11.28.49:893][678]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.06-11.28.50:149][693]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.06-11.28.50:152][693]LogMaterialEditor: Saving and Compiling material M_Floor
+[2019.02.06-11.28.50:919][693]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.06-11.28.50:919][693]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.06-11.28.50:919][693]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.06-11.28.50:919][693]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.06-11.28.50:919][693]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.06-11.28.50:919][693]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.06-11.28.50:919][693]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.06-11.28.50:919][693]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.06-11.28.50:919][693]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.06-11.28.50:919][693]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.06-11.28.50:959][693]LogMaterial: Display: Missing cached shader map for material M_Floor, compiling. 
+[2019.02.06-11.28.51:057][693]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.06-11.28.51:057][693]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.06-11.28.51:106][693]LogMaterial: Display: Missing cached shader map for material M_Floor, compiling. 
+[2019.02.06-11.28.51:143][693]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.06-11.28.51:157][693]LogMaterial: Display: Missing cached shader map for material M_Floor, compiling. 
+[2019.02.06-11.28.51:267][693]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.02.06-11.28.51:286][693]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Floor, compiling. 
+[2019.02.06-11.28.54:208][693]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.06-11.28.54:209][693]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.06-11.28.54:210][693]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.06-11.28.54:214][693]TextureStreamingBuild: Display: Compiling optional shaders took 2.944 seconds.
+[2019.02.06-11.28.57:774][693]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/M_Floor5E3648B545CC2946B14BA0B067065D47.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Materials/M_Floor.uasset'
+[2019.02.06-11.28.57:806][693]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.02.06-11.28.57:806][693]MaterialEditorStats: Base pass shader with Surface Lightmap: 127 instructions
+[2019.02.06-11.28.57:806][693]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.02.06-11.28.57:806][693]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.06-11.28.57:806][693]MaterialEditorStats: Texture samplers: 4/16
+[2019.02.06-11.28.57:806][693]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.02.06-11.28.57:806][693]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.06-11.29.00:469][842]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.06-11.29.00:486][842]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.29.00:486][842]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.06-11.29.00:486][842]PIE: New page: PIE session: Level0 (06.02.2019 13:29:00)
+[2019.02.06-11.29.00:486][842]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.06-11.29.00:547][842]LogPlayLevel: PIE: StaticDuplicateObject took: (0.060341s)
+[2019.02.06-11.29.00:549][842]LogAIModule: Creating AISystem for world Level0
+[2019.02.06-11.29.00:549][842]LogPlayLevel: PIE: World Init took: (0.001830s)
+[2019.02.06-11.29.00:549][842]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.062589s)
+[2019.02.06-11.29.00:606][842]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.06-11.29.00:695][842]LogInit: FAudioDevice initialized.
+[2019.02.06-11.29.00:730][842]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.06-11.29.00:758][842]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.06-12.29.00
+[2019.02.06-11.29.00:761][842]LogWorld: Bringing up level for play took: 0.030061
+[2019.02.06-11.29.00:774][842]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.06-11.29.00:777][842]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.06-11.29.00:777][842]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 0,408
+[2019.02.06-11.29.00:777][842]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.29.16:967][217]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.29.16:968][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-11.29.17:149][217]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.06-11.29.17:150][217]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.29.17:242][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-11.29.17:326][218]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2019.02.06-11.29.19:249][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.29.19:400][245]MapCheck: New page: Map Check
+[2019.02.06-11.29.19:546][245]Cmd: MAP REBUILD ALLVISIBLE
+[2019.02.06-11.29.19:547][245]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.02.06-11.29.20:169][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy AntiAliasedTextMaterialTranslucent, compiling. 
+[2019.02.06-11.29.20:178][245]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.06-11.29.20:178][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.02.06-11.29.20:207][245]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.06-11.29.20:207][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy LandscapeGizmo_Mat, compiling. 
+[2019.02.06-11.29.20:220][245]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.06-11.29.20:220][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FieldGrass_Inst_01, compiling. 
+[2019.02.06-11.29.20:234][245]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.06-11.29.20:234][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FieldGrass_Inst_01_LOD1, compiling. 
+[2019.02.06-11.29.20:245][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FieldGrass_Inst_01_LOD2, compiling. 
+[2019.02.06-11.29.20:261][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Floor, compiling. 
+[2019.02.06-11.29.20:279][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Walls, compiling. 
+[2019.02.06-11.29.20:294][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Concrete_Tiles, compiling. 
+[2019.02.06-11.29.20:307][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Frame, compiling. 
+[2019.02.06-11.29.20:319][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2019.02.06-11.29.20:334][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2019.02.06-11.29.20:346][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DickButt__Mat, compiling. 
+[2019.02.06-11.29.20:354][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Laser, compiling. 
+[2019.02.06-11.29.20:367][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Door, compiling. 
+[2019.02.06-11.29.20:383][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Glass, compiling. 
+[2019.02.06-11.29.20:397][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2019.02.06-11.29.20:410][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicAsset01, compiling. 
+[2019.02.06-11.29.20:426][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_FPGun, compiling. 
+[2019.02.06-11.29.20:450][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_UE4Man_Body, compiling. 
+[2019.02.06-11.29.20:468][245]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MatineeCam_mat, compiling. 
+[2019.02.06-11.29.21:790][245]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.06-11.29.21:790][245]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.06-11.29.21:790][245]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.06-11.29.21:790][245]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.06-11.29.21:790][245]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.06-11.29.21:790][245]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.06-11.29.21:790][245]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.06-11.29.21:790][245]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.06-11.29.21:790][245]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.06-11.29.21:790][245]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.06-11.29.21:790][245]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.06-11.29.21:790][245]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.06-11.29.21:790][245]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.06-11.29.21:790][245]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.06-11.29.21:790][245]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.06-11.29.21:790][245]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.06-11.29.21:790][245]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.06-11.29.21:790][245]TextureStreamingBuild: Display: Compiling optional shaders took 1.633 seconds.
+[2019.02.06-11.29.21:800][245]LogLevel: Display: Export Material TexCoord Scales took 0.010 seconds.
+[2019.02.06-11.29.21:858][245]TextureStreamingBuild: Display: Build Texture Streaming took 0.058 seconds.
+[2019.02.06-11.29.21:899][245]LightingResults: New page: Lighting Build - 06.02.2019 13:29:21
+[2019.02.06-11.29.21:911][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:911][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:911][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:911][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:911][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:911][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:911][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:911][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:911][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:911][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:911][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:911][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:911][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:911][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:911][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:911][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:911][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:911][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:911][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:912][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:913][245]LightingResults: Warning: Landscape_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.02.06-11.29.21:914][245]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.02.06-11.29.21:916][245]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.02.06-11.29.21:916][245]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.02.06-11.29.21:917][245]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.02.06-11.29.21:917][245]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14812
+[2019.02.06-11.29.26:549][245]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.02.06-11.29.26:550][245]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.02.06-11.29.26:550][245]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.02.06-11.29.26:550][245]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.02.06-11.29.26:550][245]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.02.06-11.29.26:550][245]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.02.06-11.29.26:948][245]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.02.06-11.29.26:948][245]MapCheck: New page: Level0 - 06.02.2019 13:29:26
+[2019.02.06-11.29.26:951][245]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,043ms to complete.
+[2019.02.06-11.29.26:975][245]LogEditorBuildUtils: Build time 0:07
+[2019.02.06-11.29.27:103][246]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Floor, compiling. 
+[2019.02.06-11.29.27:116][246]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Floor, compiling. 
+[2019.02.06-11.29.27:121][246]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.06-11.29.27:125][246]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.06-11.29.27:464][247]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DickButt__Mat, compiling. 
+[2019.02.06-11.29.27:475][247]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.06-11.29.27:475][247]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DickButt__Mat, compiling. 
+[2019.02.06-11.29.27:490][248]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.06-11.29.43:511][457]Job is a success!
+[2019.02.06-11.29.44:001][458]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.132s
+[2019.02.06-11.29.44:001][458]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.02.06-11.29.44:001][458]LogVolumetricLightmapImport:      BrickData 570x5x5 = 0.6Mb (trimmed 5.0Mb due to 0.010000 MinBrickError)
+[2019.02.06-11.29.44:001][458]LogVolumetricLightmapImport:      Bricks at Level
+[2019.02.06-11.29.44:001][458]LogVolumetricLightmapImport:          0: 7.0% covering 100.0% of volume
+[2019.02.06-11.29.44:001][458]LogVolumetricLightmapImport:          1: 67.5% covering 15.0% of volume
+[2019.02.06-11.29.44:001][458]LogVolumetricLightmapImport:          2: 25.4% covering 0.1% of volume
+[2019.02.06-11.29.44:552][458]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.02.06-11.29.44:552][458]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.02.06-11.29.44:552][458]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.02.06-11.29.44:552][458]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 256X128)
+[2019.02.06-11.29.44:552][458]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2019.02.06-11.29.44:552][458]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2019.02.06-11.29.44:552][458]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 256X128)
+[2019.02.06-11.29.44:552][458]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2019.02.06-11.29.44:552][458]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2019.02.06-11.29.44:553][458]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 128X64)
+[2019.02.06-11.29.44:553][458]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 128X128)
+[2019.02.06-11.29.44:553][458]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 128X128)
+[2019.02.06-11.29.44:553][458]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 128X64)
+[2019.02.06-11.29.44:553][458]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 128X128)
+[2019.02.06-11.29.44:553][458]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 128X128)
+[2019.02.06-11.29.44:553][458]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 64X32)
+[2019.02.06-11.29.44:553][458]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 64X64)
+[2019.02.06-11.29.44:553][458]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 64X64)
+[2019.02.06-11.29.44:553][458]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 128X64)
+[2019.02.06-11.29.44:553][458]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 128X128)
+[2019.02.06-11.29.44:553][458]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 128X128)
+[2019.02.06-11.29.44:553][458]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 128X64)
+[2019.02.06-11.29.44:553][458]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 128X128)
+[2019.02.06-11.29.44:553][458]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 128X128)
+[2019.02.06-11.29.44:553][458]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 64X32)
+[2019.02.06-11.29.44:553][458]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 64X64)
+[2019.02.06-11.29.44:553][458]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 64X64)
+[2019.02.06-11.29.44:637][458]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 64X32)
+[2019.02.06-11.29.44:637][458]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 256X32)
+[2019.02.06-11.29.44:637][458]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 128X32)
+[2019.02.06-11.29.44:637][458]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 32X32)
+[2019.02.06-11.29.44:637][458]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 256X32)
+[2019.02.06-11.29.44:637][458]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 128X32)
+[2019.02.06-11.29.44:637][458]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 512X32)
+[2019.02.06-11.29.44:637][458]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 512X32)
+[2019.02.06-11.29.44:637][458]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (BGRA8, 1024X256)
+[2019.02.06-11.29.44:665][458]Lightmass on MSI: 15.1 sec total, 247 ms importing, 104 ms setup, 2.79 sec photons, 11.9 sec processing, 0 ms extra exporting [113/113 mappings]. Threads: 1:23 min total, 18.2 sec processing.
+[2019.02.06-11.29.44:761][458]LogStaticLightingSystem: Illumination: 22.6 sec (470 ms encoding lightmaps, 82 ms encoding shadowmaps)
+[2019.02.06-11.29.44:761][458]LogStaticLightingSystem: Lightmap texture memory:  3.2 MB (3.2 MB streaming, 0.0 MB non-streaming), 18 textures
+[2019.02.06-11.29.44:761][458]LogStaticLightingSystem: Shadowmap texture memory: 1.5 MB (1.5 MB streaming, 0.0 MB non-streaming), 9 textures
+[2019.02.06-11.29.45:570][458]DumpUnbuiltLightIteractions
+[2019.02.06-11.29.45:570][458]Lights with unbuilt interactions: 0
+[2019.02.06-11.29.45:570][458]
+[2019.02.06-11.29.45:570][458]Primitives with unbuilt interactions: 0
+[2019.02.06-11.29.45:788][459]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.02.06-11.29.45:788][459]MapCheck: New page: Level0 - 06.02.2019 13:29:45
+[2019.02.06-11.29.45:792][459]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 4,172ms to complete.
+[2019.02.06-11.30.04:501][740]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.30.05:820][740]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Level0F63D81034D159597511C95A8A310E684.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level0.umap'
+[2019.02.06-11.30.06:013][740]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Level0_BuiltData7BD9424549E1C5FCAE17E9A4697FE436.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level0_BuiltData.uasset'
+[2019.02.06-11.30.38:246][169]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/HUD.HUD
+[2019.02.06-11.31.30:306][197]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.06-11.32.14:571][798]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.06-11.32.14:594][798]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.32.14:594][798]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.06-11.32.14:604][798]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2019.02.06-11.32.14:891][798]LogPlayLevel: PlayLevel: Blueprint regeneration took 297 ms (1 blueprints)
+[2019.02.06-11.32.14:892][798]PIE: New page: PIE session: Level0 (06.02.2019 13:32:14)
+[2019.02.06-11.32.14:892][798]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.06-11.32.14:945][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053850s)
+[2019.02.06-11.32.14:946][798]LogAIModule: Creating AISystem for world Level0
+[2019.02.06-11.32.14:947][798]LogPlayLevel: PIE: World Init took: (0.001404s)
+[2019.02.06-11.32.14:947][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.055588s)
+[2019.02.06-11.32.14:997][798]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.06-11.32.15:118][798]LogInit: FAudioDevice initialized.
+[2019.02.06-11.32.15:133][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-11.32.15:171][798]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.06-11.32.15:186][798]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.06-12.32.15
+[2019.02.06-11.32.15:187][798]LogWorld: Bringing up level for play took: 0.015499
+[2019.02.06-11.32.15:200][798]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.06-11.32.15:204][798]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.06-11.32.15:206][798]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 0,838
+[2019.02.06-11.32.15:206][798]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.32.35:138][289]LogBlueprintUserMessages: [Coins_2] 1
+[2019.02.06-11.32.51:139][504]LogBlueprintUserMessages: [Coins2] 2
+[2019.02.06-11.33.08:983][781]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.33.08:984][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-11.33.09:040][781]LogSlate: Window 'ProjectUnreal Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.06-11.33.09:176][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.06-11.33.09:177][781]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.33.09:414][782]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2019.02.06-11.33.36:855][378]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Blueprints/HUD.HUD:WidgetTree.CanvasPanel_0
+[2019.02.06-11.33.36:855][378]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Blueprints/GameOver.GameOver_C:WidgetTree.CanvasPanel_0
+[2019.02.06-11.33.36:855][378]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Blueprints/Victory.Victory:WidgetTree.CanvasPanel_0
+[2019.02.06-11.33.36:855][378]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Blueprints/HUD.HUD_C:WidgetTree.CanvasPanel_0
+[2019.02.06-11.33.36:855][378]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/Blueprints/Victory.Victory_C:WidgetTree.CanvasPanel_0
+[2019.02.06-11.33.36:855][378]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_30:HUD_C_4.WidgetTree_0.CanvasPanel_0
+[2019.02.06-11.33.36:855][378]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.REINST_HUD_C_21:WidgetTree.CanvasPanel_0
+[2019.02.06-11.33.36:855][378]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/Blueprints/GameOver.GameOver:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_30:REINST_HUD_C_0.WidgetTree_0.CanvasPanel_0
+[2019.02.06-11.33.36:856][378]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/Blueprints/HUD.HUD:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7 or CanvasPanelSlot /Game/Blueprints/Victory.Victory:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7
+[2019.02.06-11.33.36:856][378]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/Blueprints/HUD.HUD:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7 or CanvasPanelSlot /Engine/Transient.REINST_HUD_C_21:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7
+[2019.02.06-11.33.36:856][378]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/Blueprints/HUD.HUD:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7 or CanvasPanelSlot /Game/Blueprints/Victory.Victory_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7
+[2019.02.06-11.33.36:856][378]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/Blueprints/HUD.HUD:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7 or CanvasPanelSlot /Engine/Transient.World_30:REINST_HUD_C_0.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_7
+[2019.02.06-11.33.36:856][378]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/Blueprints/HUD.HUD:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7 or CanvasPanelSlot /Game/Blueprints/HUD.HUD_C:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7
+[2019.02.06-11.33.36:856][378]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanelSlot /Game/Blueprints/HUD.HUD:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7 or CanvasPanelSlot /Engine/Transient.World_30:HUD_C_4.WidgetTree_0.CanvasPanel_0.CanvasPanelSlot_7
+[2019.02.06-11.33.36:856][378]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/Blueprints/HUD.HUD:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_7).  Import failed...
+[2019.02.06-11.33.36:856][378]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_7"''
+[2019.02.06-11.34.42:898][260]LogEditorTransaction: Undo Edit Left
+[2019.02.06-11.34.42:899][260]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.02.06-11.34.43:558][260]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.659 s
+[2019.02.06-11.34.43:559][260]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.06-11.34.43:559][260]LogOutputDevice: Error: 
+[2019.02.06-11.34.43:559][260]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2019.02.06-11.34.43:559][260]LogOutputDevice: Error: 
+[2019.02.06-11.34.43:559][260]LogOutputDevice: Error: Stack: 
+[2019.02.06-11.34.43:559][260]LogOutputDevice: Error: [Callstack] 0x00007ffaf88e8508 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.06-11.34.43:559][260]LogOutputDevice: Error: [Callstack] 0x00007ffb1955fd42 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.06-11.34.43:559][260]LogOutputDevice: Error: [Callstack] 0x00007ffb1958ac06 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.06-11.34.43:559][260]LogOutputDevice: Error: [Callstack] 0x00007ffb1957131c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.06-11.34.43:559][260]LogOutputDevice: Error: [Callstack] 0x00007ffb195db337 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.06-11.34.43:559][260]LogOutputDevice: Error: [Callstack] 0x00007ffb1961f63f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.06-11.34.43:559][260]LogOutputDevice: Error: [Callstack] 0x00007ffb195b717f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.06-11.34.43:559][260]LogOutputDevice: Error: [Callstack] 0x00007ffaf7820fe8 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.02.06-11.34.43:560][260]LogOutputDevice: Error: [Callstack] 0x00007ffb1a8d206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.06-11.34.43:560][260]LogOutputDevice: Error: [Callstack] 0x00007ffb1a914c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.06-11.34.43:560][260]LogOutputDevice: Error: [Callstack] 0x00007ffb19e36bee UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.06-11.34.43:560][260]LogOutputDevice: Error: [Callstack] 0x00007ffb19e24b88 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.06-11.34.43:560][260]LogOutputDevice: Error: [Callstack] 0x00007ffb1a89694c UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.06-11.34.43:560][260]LogOutputDevice: Error: [Callstack] 0x00007ffb1a91697c UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.06-11.34.43:560][260]LogOutputDevice: Error: [Callstack] 0x00007ffb1a909a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.06-11.34.43:560][260]LogOutputDevice: Error: [Callstack] 0x00007ffb5238daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.06-11.34.43:560][260]LogOutputDevice: Error: [Callstack] 0x00007ffb52380de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.06-11.34.43:560][260]LogOutputDevice: Error: [Callstack] 0x00007ffb523901eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.06-11.34.43:560][260]LogOutputDevice: Error: [Callstack] 0x00007ffb5237ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.06-11.34.43:560][260]LogOutputDevice: Error: [Callstack] 0x00007ffb67af6d41 USER32.dll!UnknownFunction []
+[2019.02.06-11.34.43:560][260]LogOutputDevice: Error: [Callstack] 0x00007ffb67af6713 USER32.dll!UnknownFunction []
+[2019.02.06-11.34.43:560][260]LogOutputDevice: Error: [Callstack] 0x00007ffb52391746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.06-11.34.43:560][260]LogOutputDevice: Error: [Callstack] 0x00007ff7eedb5546 UE4Editor.exe!UnknownFunction []
+[2019.02.06-11.34.43:560][260]LogOutputDevice: Error: [Callstack] 0x00007ff7eedc596c UE4Editor.exe!UnknownFunction []
+[2019.02.06-11.34.43:561][260]LogOutputDevice: Error: [Callstack] 0x00007ff7eedc59ea UE4Editor.exe!UnknownFunction []
+[2019.02.06-11.34.43:561][260]LogOutputDevice: Error: [Callstack] 0x00007ff7eedd48da UE4Editor.exe!UnknownFunction []
+[2019.02.06-11.34.43:561][260]LogOutputDevice: Error: [Callstack] 0x00007ff7eedd659a UE4Editor.exe!UnknownFunction []
+[2019.02.06-11.34.43:561][260]LogOutputDevice: Error: [Callstack] 0x00007ffb65d33034 KERNEL32.DLL!UnknownFunction []
+[2019.02.06-11.34.43:561][260]LogOutputDevice: Error: [Callstack] 0x00007ffb683e3691 ntdll.dll!UnknownFunction []
+[2019.02.06-11.34.43:561][260]LogOutputDevice: Error: 
+[2019.02.06-11.34.43:564][260]LogStats:                SubmitErrorReport -  0.000 s
+[2019.02.06-11.34.45:220][260]LogStats:                    SendNewReport -  1.656 s
+[2019.02.06-11.34.45:220][260]LogStats:             FDebug::EnsureFailed -  2.321 s
+[2019.02.06-11.34.45:251][260]LogMaterial: Display: Missing cached shader map for material M_Floor, compiling. 
+[2019.02.06-11.34.45:279][260]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.06-11.34.45:279][260]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.06-11.34.45:279][260]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.06-11.34.45:279][260]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.06-11.34.45:285][260]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.02.06-11.34.45:332][260]LogMaterial: Display: Missing cached shader map for material M_Walls, compiling. 
+[2019.02.06-11.34.45:382][260]LogEditorTransaction: Undo Edit Left
+[2019.02.06-11.34.45:398][260]LogMaterial: Display: Missing cached shader map for material M_Floor, compiling. 
+[2019.02.06-11.34.45:430][260]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2019.02.06-11.34.45:467][260]LogMaterial: Display: Missing cached shader map for material M_Walls, compiling. 
+[2019.02.06-11.34.45:821][274]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.02.06-11.34.45:836][275]LogShaderCompilers: Display: Shaders left to compile 89
+[2019.02.06-11.34.45:855][276]LogShaderCompilers: Display: Shaders left to compile 88
+[2019.02.06-11.34.45:871][277]LogShaderCompilers: Display: Shaders left to compile 87
+[2019.02.06-11.34.46:107][291]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.02.06-11.34.46:138][293]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.02.06-11.34.46:138][293]LogShaderCompilers: Display: Shaders left to compile 84
+[2019.02.06-11.34.46:158][294]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.02.06-11.34.46:330][304]LogShaderCompilers: Display: Shaders left to compile 82
+[2019.02.06-11.34.46:346][305]LogShaderCompilers: Display: Shaders left to compile 81
+[2019.02.06-11.34.46:392][308]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.02.06-11.34.46:409][309]LogShaderCompilers: Display: Shaders left to compile 79
+[2019.02.06-11.34.46:518][315]LogShaderCompilers: Display: Shaders left to compile 78
+[2019.02.06-11.34.46:713][324]LogShaderCompilers: Display: Shaders left to compile 77
+[2019.02.06-11.34.46:834][328]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.02.06-11.34.46:932][332]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.02.06-11.34.47:008][335]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.02.06-11.34.47:162][345]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.02.06-11.34.47:250][350]LogShaderCompilers: Display: Shaders left to compile 72
+[2019.02.06-11.34.47:451][362]LogShaderCompilers: Display: Shaders left to compile 71
+[2019.02.06-11.34.47:466][363]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.02.06-11.34.47:500][365]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.02.06-11.34.47:750][379]LogShaderCompilers: Display: Shaders left to compile 68
+[2019.02.06-11.34.47:780][381]LogShaderCompilers: Display: Shaders left to compile 67
+[2019.02.06-11.34.48:011][394]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.02.06-11.34.48:026][395]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.02.06-11.34.48:082][398]LogShaderCompilers: Display: Shaders left to compile 64
+[2019.02.06-11.34.48:285][409]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.02.06-11.34.48:391][415]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.02.06-11.34.48:612][427]LogShaderCompilers: Display: Shaders left to compile 61
+[2019.02.06-11.34.48:630][428]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.02.06-11.34.48:805][438]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.02.06-11.34.48:919][444]LogShaderCompilers: Display: Shaders left to compile 58
+[2019.02.06-11.34.48:938][445]LogShaderCompilers: Display: Shaders left to compile 57
+[2019.02.06-11.34.48:938][445]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.02.06-11.34.48:966][446]MaterialEditorStats: Base pass shader: 109 instructions
+[2019.02.06-11.34.48:966][446]MaterialEditorStats: Base pass shader with Surface Lightmap: 127 instructions
+[2019.02.06-11.34.48:966][446]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2019.02.06-11.34.48:966][446]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.06-11.34.48:966][446]MaterialEditorStats: Texture samplers: 4/16
+[2019.02.06-11.34.48:966][446]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.02.06-11.34.48:966][446]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.06-11.34.49:049][451]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.02.06-11.34.49:143][457]LogShaderCompilers: Display: Shaders left to compile 54
+[2019.02.06-11.34.49:161][458]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.02.06-11.34.49:177][459]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.02.06-11.34.49:228][462]LogShaderCompilers: Display: Shaders left to compile 51
+[2019.02.06-11.34.49:314][467]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.02.06-11.34.49:328][468]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.02.06-11.34.49:359][470]LogShaderCompilers: Display: Shaders left to compile 48
+[2019.02.06-11.34.49:600][484]LogShaderCompilers: Display: Shaders left to compile 47
+[2019.02.06-11.34.49:685][489]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.02.06-11.34.49:798][496]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.02.06-11.34.49:814][497]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.02.06-11.34.49:952][505]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.02.06-11.34.50:067][512]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.02.06-11.34.50:230][522]LogShaderCompilers: Display: Shaders left to compile 41
+[2019.02.06-11.34.50:230][522]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.02.06-11.34.50:267][524]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.02.06-11.34.50:486][537]LogShaderCompilers: Display: Shaders left to compile 38
+[2019.02.06-11.34.50:505][538]LogShaderCompilers: Display: Shaders left to compile 37
+[2019.02.06-11.34.50:702][550]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.02.06-11.34.50:734][552]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.02.06-11.34.50:768][554]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.02.06-11.34.50:937][564]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.02.06-11.34.51:051][571]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.02.06-11.34.51:189][579]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.06-11.34.51:254][583]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.02.06-11.34.51:355][589]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.02.06-11.34.51:452][595]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.02.06-11.34.51:495][597]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.02.06-11.34.51:517][598]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.02.06-11.34.51:517][598]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2019.02.06-11.34.51:517][598]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.02.06-11.34.51:517][598]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.02.06-11.34.51:517][598]MaterialEditorStats: Texture samplers: 3/16
+[2019.02.06-11.34.51:529][599]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.02.06-11.34.51:615][604]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.06-11.34.51:707][609]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.06-11.34.51:707][609]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.06-11.34.51:755][612]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.06-11.34.51:810][615]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.06-11.34.51:880][619]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.06-11.34.51:909][621]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.06-11.34.51:944][623]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.06-11.34.52:250][638]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.06-11.34.52:263][639]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.06-11.34.52:354][644]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.06-11.34.52:384][646]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.06-11.34.52:557][656]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.06-11.34.52:695][664]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.06-11.34.52:832][672]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.06-11.34.52:848][673]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.06-11.34.52:848][673]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.06-11.34.53:143][690]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.06-11.34.53:160][691]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.06-11.34.53:346][702]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.06-11.34.53:346][702]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.06-11.34.53:446][708]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.06-11.34.53:632][719]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.06-11.34.53:762][727]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.06-11.34.53:884][734]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.06-11.34.54:293][758]MaterialEditorStats: Base pass shader: 106 instructions
+[2019.02.06-11.34.54:293][758]MaterialEditorStats: Base pass shader with Surface Lightmap: 124 instructions
+[2019.02.06-11.34.54:293][758]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2019.02.06-11.34.54:293][758]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.06-11.34.54:293][758]MaterialEditorStats: Texture samplers: 4/16
+[2019.02.06-11.34.54:293][758]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2019.02.06-11.34.54:293][758]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.06-11.35.39:044][338]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HUDF8EC176842A47406CE497B9242146407.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Blueprints/HUD.uasset'
+[2019.02.06-11.36.13:133][314]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.06-11.36.13:155][314]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.36.13:155][314]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.06-11.36.13:166][314]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2019.02.06-11.36.13:659][314]LogPlayLevel: PlayLevel: Blueprint regeneration took 503 ms (1 blueprints)
+[2019.02.06-11.36.13:659][314]PIE: New page: PIE session: Level0 (06.02.2019 13:36:13)
+[2019.02.06-11.36.13:660][314]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.06-11.36.13:711][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051624s)
+[2019.02.06-11.36.13:713][314]LogAIModule: Creating AISystem for world Level0
+[2019.02.06-11.36.13:713][314]LogPlayLevel: PIE: World Init took: (0.001458s)
+[2019.02.06-11.36.13:713][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.053380s)
+[2019.02.06-11.36.13:765][314]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.06-11.36.13:846][314]LogInit: FAudioDevice initialized.
+[2019.02.06-11.36.13:863][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-11.36.13:901][314]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.06-11.36.13:917][314]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.06-12.36.13
+[2019.02.06-11.36.13:919][314]LogWorld: Bringing up level for play took: 0.016922
+[2019.02.06-11.36.13:931][314]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.06-11.36.13:934][314]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.06-11.36.13:936][314]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 1,568
+[2019.02.06-11.36.13:936][314]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.36.34:152][ 23]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.36.34:153][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-11.36.34:190][ 23]LogSlate: Window 'ProjectUnreal Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.06-11.36.34:298][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.06-11.36.34:299][ 23]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.36.34:421][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2019.02.06-11.36.47:203][781]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Blueprints/CoinsIcon.CoinsIcon
+[2019.02.06-11.36.54:940][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.37.38:654][449]AssetReimport: New page: Outstanding source content changes 13:37:38
+[2019.02.06-11.37.38:695][449]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Blueprints/coins_1193998.png)
+[2019.02.06-11.37.38:870][449]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/coins_11939984E0896FA4E80F342731C71AC85AB4159.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Blueprints/coins_1193998.uasset'
+[2019.02.06-11.37.42:990][462]AssetReimport: Importing new asset /Game/Blueprints/coins_1193998.
+[2019.02.06-11.38.20:534][338]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.06-11.38.27:764][446]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.06-11.38.47:311][742]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.06-11.38.47:362][742]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.38.47:362][742]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.06-11.38.47:395][742]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2019.02.06-11.38.48:205][742]LogPlayLevel: PlayLevel: Blueprint regeneration took 842 ms (1 blueprints)
+[2019.02.06-11.38.48:205][742]PIE: New page: PIE session: Level0 (06.02.2019 13:38:48)
+[2019.02.06-11.38.48:206][742]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.06-11.38.48:303][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.096645s)
+[2019.02.06-11.38.48:304][742]LogAIModule: Creating AISystem for world Level0
+[2019.02.06-11.38.48:305][742]LogPlayLevel: PIE: World Init took: (0.001662s)
+[2019.02.06-11.38.48:305][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.098950s)
+[2019.02.06-11.38.48:361][742]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.06-11.38.48:446][742]LogInit: FAudioDevice initialized.
+[2019.02.06-11.38.48:487][742]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.06-11.38.48:514][742]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.06-12.38.48
+[2019.02.06-11.38.48:518][742]LogWorld: Bringing up level for play took: 0.029976
+[2019.02.06-11.38.48:532][742]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.06-11.38.48:534][742]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.06-11.38.48:535][742]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 2,166
+[2019.02.06-11.38.48:535][742]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.38.50:656][818]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.38.50:656][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-11.38.50:703][818]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.06-11.38.50:703][818]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.38.50:745][818]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-11.38.50:784][819]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2019.02.06-11.38.54:125][987]LogSlate: Window 'HUD*' being destroyed
+[2019.02.06-11.38.55:684][ 62]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.06-11.38.55:703][ 62]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.38.55:703][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.06-11.38.55:704][ 62]PIE: New page: PIE session: Level0 (06.02.2019 13:38:55)
+[2019.02.06-11.38.55:704][ 62]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.06-11.38.55:752][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048500s)
+[2019.02.06-11.38.55:753][ 62]LogAIModule: Creating AISystem for world Level0
+[2019.02.06-11.38.55:754][ 62]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2019.02.06-11.38.55:754][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.049829s)
+[2019.02.06-11.38.55:807][ 62]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.06-11.38.55:887][ 62]LogInit: FAudioDevice initialized.
+[2019.02.06-11.38.55:917][ 62]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.06-11.38.55:928][ 62]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.06-12.38.55
+[2019.02.06-11.38.55:930][ 62]LogWorld: Bringing up level for play took: 0.011670
+[2019.02.06-11.38.55:942][ 62]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.06-11.38.55:944][ 62]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.06-11.38.55:944][ 62]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 -0,424
+[2019.02.06-11.38.55:944][ 62]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.39.24:102][707]LogBlueprintUserMessages: [Coins_2] 1
+[2019.02.06-11.40.09:164][ 15]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.40.09:165][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-11.40.09:402][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.06-11.40.09:403][ 15]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.40.09:528][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-11.40.09:782][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2019.02.06-11.40.10:800][ 25]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.40.11:932][ 25]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Level043726560427AE5BEF682CEA34DE0D057.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level0.umap'
+[2019.02.06-11.40.12:128][ 25]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Level0_BuiltDataA2ABA5234BB4B692658E258B9BF4A817.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level0_BuiltData.uasset'
+[2019.02.06-11.40.12:631][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.06-11.40.41:065][684]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HUD683EA17A48D7E45E2666DA8A81D2CCF9.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Blueprints/HUD.uasset'
+[2019.02.06-11.41.23:910][201]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.06-11.41.23:936][201]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.41.23:936][201]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.02.06-11.41.23:947][201]LogPlayLevel: [PlayLevel] Compiling HUD before play...
+[2019.02.06-11.41.24:287][201]LogPlayLevel: PlayLevel: Blueprint regeneration took 350 ms (1 blueprints)
+[2019.02.06-11.41.24:287][201]PIE: New page: PIE session: Level0 (06.02.2019 13:41:24)
+[2019.02.06-11.41.24:287][201]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level0
+[2019.02.06-11.41.24:340][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052242s)
+[2019.02.06-11.41.24:341][201]LogAIModule: Creating AISystem for world Level0
+[2019.02.06-11.41.24:341][201]LogPlayLevel: PIE: World Init took: (0.001401s)
+[2019.02.06-11.41.24:341][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level0.Level0 to /Game/Maps/UEDPIE_0_Level0.Level0 (0.053854s)
+[2019.02.06-11.41.24:399][201]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.02.06-11.41.24:480][201]LogInit: FAudioDevice initialized.
+[2019.02.06-11.41.24:496][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-11.41.24:532][201]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.02.06-11.41.24:546][201]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level0.Level0 up for play (max tick rate 60) at 2019.02.06-12.41.24
+[2019.02.06-11.41.24:548][201]LogWorld: Bringing up level for play took: 0.014639
+[2019.02.06-11.41.24:560][201]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.06-11.41.24:562][201]LogLevel: Warning: EnableInput on a LevelScript actor can not be specified for only one PlayerController.  Enabling for all PlayerControllers.
+[2019.02.06-11.41.24:565][201]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level0 0,196
+[2019.02.06-11.41.24:565][201]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.41.51:898][841]LogCharacterMovement: FirstPersonCharacter_C_1 is stuck and failed to move! Velocity: X=-70.66 Y=111.35 Z=0.00 Location: X=-4075.24 Y=-2879.28 Z=358.58 Normal: X=-0.21 Y=-0.87 Z=-0.45 PenetrationDepth:1.521 Actor:Coins_2 Component:Cylinder BoneName:None (0 other events since notify)
+[2019.02.06-11.41.51:959][842]LogBlueprintUserMessages: [Coins_2] 1
+[2019.02.06-11.41.55:357][882]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.41.55:358][882]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.06-11.41.55:413][882]LogSlate: Window 'ProjectUnreal Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.02.06-11.41.55:624][882]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.06-11.41.55:625][882]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level0.Level0:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level0.Level0:PersistentLevel.Level0' with GeneratedClass '/Game/Maps/Level0.Level0_C' with ClassGeneratedBy '/Game/Maps/Level0.Level0:PersistentLevel.Level0'
+[2019.02.06-11.41.55:819][883]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2019.02.06-11.41.57:178][946]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/HUDC22DFA9B4596BB4FFD63309D12469D7D.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Blueprints/HUD.uasset'
+[2019.02.06-11.42.10:034][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.42.10:107][696]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/CoinF132C34C4743F7E502043683698342BA.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Blueprints/Coin.uasset'
+[2019.02.06-11.42.18:643][981]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2019.02.06-11.42.24:975][112]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.06-11.42.25:819][112]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Level097725B0A413145961AC455B21C8C5480.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level0.umap'
+[2019.02.06-11.42.26:010][112]LogSavePackage: Moving '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Saved/Level0_BuiltData043FA37343C8E984369AEFA6DFBB8E59.tmp' to '../../../../../../Users/pulc/Desktop/HTW/Game Engines/Unreal/Tutoriál/HTW-GameEngines-ProjektUnreal/ProjectUnreal/Content/Maps/Level0_BuiltData.uasset'
